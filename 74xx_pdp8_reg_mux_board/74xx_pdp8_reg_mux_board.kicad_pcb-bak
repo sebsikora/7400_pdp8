@@ -1261,7 +1261,7 @@
   )
 
   (module Housings_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 54130A77) (tstamp 5AC4F154)
-    (at 137.16 124.46)
+    (at 135.89 124.46)
     (descr "16-lead dip package, row spacing 7.62 mm (300 mils)")
     (tags "dil dip 2.54 300")
     (path /5AC4FC90)
@@ -1774,7 +1774,7 @@
   )
 
   (module Housings_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 54130A77) (tstamp 5AC4F204)
-    (at 151.13 151.13)
+    (at 149.86 151.13)
     (descr "16-lead dip package, row spacing 7.62 mm (300 mils)")
     (tags "dil dip 2.54 300")
     (path /5AC4F0E2)
@@ -1831,7 +1831,7 @@
   )
 
   (module Housings_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 54130A77) (tstamp 5AC4F218)
-    (at 151.13 176.53)
+    (at 149.86 176.53)
     (descr "16-lead dip package, row spacing 7.62 mm (300 mils)")
     (tags "dil dip 2.54 300")
     (path /5AC4F0E8)
@@ -1888,7 +1888,7 @@
   )
 
   (module Housings_DIP:DIP-16_W7.62mm (layer F.Cu) (tedit 54130A77) (tstamp 5AC4F22C)
-    (at 151.13 124.46)
+    (at 162.56 151.13)
     (descr "16-lead dip package, row spacing 7.62 mm (300 mils)")
     (tags "dil dip 2.54 300")
     (path /5AC4F0EE)
