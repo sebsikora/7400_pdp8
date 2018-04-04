@@ -1,0 +1,1191 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A2 23386 16535
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Label 1500 750  0    60   ~ 0
+GND
+Text Label 1500 875  0    60   ~ 0
+VCC
+$Comp
+L R_Small R1
+U 1 1 5AC23432
+P 625 800
+F 0 "R1" H 655 820 50  0000 L CNN
+F 1 "R_Small" H 655 760 50  0000 L CNN
+F 2 "Discret:R1" H 625 800 50  0001 C CNN
+F 3 "" H 625 800 50  0000 C CNN
+	1    625  800 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1000 875  1500 875 
+Wire Wire Line
+	1000 750  1500 750 
+Wire Wire Line
+	625  700  625  625 
+Wire Wire Line
+	625  625  1000 625 
+Wire Wire Line
+	1000 625  1000 750 
+Wire Wire Line
+	1000 875  1000 1000
+Wire Wire Line
+	1000 1000 625  1000
+Wire Wire Line
+	625  1000 625  900 
+$Comp
+L 74LS251 U22
+U 1 1 5AC4DCE9
+P 9175 9250
+F 0 "U22" H 9175 9250 50  0000 C CNN
+F 1 "74LS251" H 9175 9100 50  0000 C CNN
+F 2 "Housings_DIP:DIP-16_W7.62mm" H 9175 9250 50  0001 C CNN
+F 3 "" H 9175 9250 50  0000 C CNN
+	1    9175 9250
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS251 U23
+U 1 1 5AC4E215
+P 10875 9250
+F 0 "U23" H 10875 9250 50  0000 C CNN
+F 1 "74LS251" H 10875 9100 50  0000 C CNN
+F 2 "Housings_DIP:DIP-16_W7.62mm" H 10875 9250 50  0001 C CNN
+F 3 "" H 10875 9250 50  0000 C CNN
+	1    10875 9250
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS251 U24
+U 1 1 5AC4E4A4
+P 12600 9250
+F 0 "U24" H 12600 9250 50  0000 C CNN
+F 1 "74LS251" H 12600 9100 50  0000 C CNN
+F 2 "Housings_DIP:DIP-16_W7.62mm" H 12600 9250 50  0001 C CNN
+F 3 "" H 12600 9250 50  0000 C CNN
+	1    12600 9250
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS251 U25
+U 1 1 5AC4E4AA
+P 14300 9250
+F 0 "U25" H 14300 9250 50  0000 C CNN
+F 1 "74LS251" H 14300 9100 50  0000 C CNN
+F 2 "Housings_DIP:DIP-16_W7.62mm" H 14300 9250 50  0001 C CNN
+F 3 "" H 14300 9250 50  0000 C CNN
+	1    14300 9250
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS251 U26
+U 1 1 5AC4F0DC
+P 16025 9250
+F 0 "U26" H 16025 9250 50  0000 C CNN
+F 1 "74LS251" H 16025 9100 50  0000 C CNN
+F 2 "Housings_DIP:DIP-16_W7.62mm" H 16025 9250 50  0001 C CNN
+F 3 "" H 16025 9250 50  0000 C CNN
+	1    16025 9250
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS251 U27
+U 1 1 5AC4F0E2
+P 17725 9250
+F 0 "U27" H 17725 9250 50  0000 C CNN
+F 1 "74LS251" H 17725 9100 50  0000 C CNN
+F 2 "Housings_DIP:DIP-16_W7.62mm" H 17725 9250 50  0001 C CNN
+F 3 "" H 17725 9250 50  0000 C CNN
+	1    17725 9250
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS251 U28
+U 1 1 5AC4F0E8
+P 19450 9250
+F 0 "U28" H 19450 9250 50  0000 C CNN
+F 1 "74LS251" H 19450 9100 50  0000 C CNN
+F 2 "Housings_DIP:DIP-16_W7.62mm" H 19450 9250 50  0001 C CNN
+F 3 "" H 19450 9250 50  0000 C CNN
+	1    19450 9250
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS251 U29
+U 1 1 5AC4F0EE
+P 21150 9250
+F 0 "U29" H 21150 9250 50  0000 C CNN
+F 1 "74LS251" H 21150 9100 50  0000 C CNN
+F 2 "Housings_DIP:DIP-16_W7.62mm" H 21150 9250 50  0001 C CNN
+F 3 "" H 21150 9250 50  0000 C CNN
+	1    21150 9250
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS251 U18
+U 1 1 5AC4FC84
+P 2325 9250
+F 0 "U18" H 2325 9250 50  0000 C CNN
+F 1 "74LS251" H 2325 9100 50  0000 C CNN
+F 2 "Housings_DIP:DIP-16_W7.62mm" H 2325 9250 50  0001 C CNN
+F 3 "" H 2325 9250 50  0000 C CNN
+	1    2325 9250
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS251 U19
+U 1 1 5AC4FC8A
+P 4025 9250
+F 0 "U19" H 4025 9250 50  0000 C CNN
+F 1 "74LS251" H 4025 9100 50  0000 C CNN
+F 2 "Housings_DIP:DIP-16_W7.62mm" H 4025 9250 50  0001 C CNN
+F 3 "" H 4025 9250 50  0000 C CNN
+	1    4025 9250
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS251 U20
+U 1 1 5AC4FC90
+P 5750 9250
+F 0 "U20" H 5750 9250 50  0000 C CNN
+F 1 "74LS251" H 5750 9100 50  0000 C CNN
+F 2 "Housings_DIP:DIP-16_W7.62mm" H 5750 9250 50  0001 C CNN
+F 3 "" H 5750 9250 50  0000 C CNN
+	1    5750 9250
+	0    1    1    0   
+$EndComp
+$Comp
+L 74LS251 U21
+U 1 1 5AC4FC96
+P 7450 9250
+F 0 "U21" H 7450 9250 50  0000 C CNN
+F 1 "74LS251" H 7450 9100 50  0000 C CNN
+F 2 "Housings_DIP:DIP-16_W7.62mm" H 7450 9250 50  0001 C CNN
+F 3 "" H 7450 9250 50  0000 C CNN
+	1    7450 9250
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2075 8550 2075 8400
+Wire Wire Line
+	1400 8400 20900 8400
+Wire Wire Line
+	3775 8400 3775 8550
+Wire Wire Line
+	5500 8400 5500 8550
+Connection ~ 3775 8400
+Wire Wire Line
+	7200 8400 7200 8550
+Connection ~ 5500 8400
+Wire Wire Line
+	8925 8400 8925 8550
+Connection ~ 7200 8400
+Wire Wire Line
+	10625 8400 10625 8550
+Connection ~ 8925 8400
+Wire Wire Line
+	12350 8400 12350 8550
+Connection ~ 10625 8400
+Wire Wire Line
+	14050 8400 14050 8550
+Connection ~ 12350 8400
+Wire Wire Line
+	15775 8400 15775 8550
+Connection ~ 14050 8400
+Wire Wire Line
+	17475 8400 17475 8550
+Connection ~ 15775 8400
+Wire Wire Line
+	19200 8400 19200 8550
+Connection ~ 17475 8400
+Wire Wire Line
+	20900 8400 20900 8550
+Connection ~ 19200 8400
+Wire Wire Line
+	1975 8550 1975 8300
+Wire Wire Line
+	1400 8300 20800 8300
+Wire Wire Line
+	3675 8300 3675 8550
+Wire Wire Line
+	5400 8300 5400 8550
+Connection ~ 3675 8300
+Wire Wire Line
+	7100 8300 7100 8550
+Connection ~ 5400 8300
+Wire Wire Line
+	8825 8300 8825 8550
+Connection ~ 7100 8300
+Wire Wire Line
+	10525 8300 10525 8550
+Connection ~ 8825 8300
+Wire Wire Line
+	12250 8300 12250 8550
+Connection ~ 10525 8300
+Wire Wire Line
+	13950 8300 13950 8550
+Connection ~ 12250 8300
+Wire Wire Line
+	15675 8300 15675 8550
+Connection ~ 13950 8300
+Wire Wire Line
+	17375 8300 17375 8550
+Connection ~ 15675 8300
+Wire Wire Line
+	19100 8300 19100 8550
+Connection ~ 17375 8300
+Wire Wire Line
+	20800 8300 20800 8550
+Connection ~ 19100 8300
+Wire Wire Line
+	1875 8550 1875 8200
+Wire Wire Line
+	1400 8200 20700 8200
+Wire Wire Line
+	3575 8200 3575 8550
+Wire Wire Line
+	5300 8200 5300 8550
+Connection ~ 3575 8200
+Wire Wire Line
+	7000 8200 7000 8550
+Connection ~ 5300 8200
+Wire Wire Line
+	8725 8200 8725 8550
+Connection ~ 7000 8200
+Wire Wire Line
+	10425 8200 10425 8550
+Connection ~ 8725 8200
+Wire Wire Line
+	12150 8200 12150 8550
+Connection ~ 10425 8200
+Wire Wire Line
+	13850 8200 13850 8550
+Connection ~ 12150 8200
+Wire Wire Line
+	15575 8200 15575 8550
+Connection ~ 13850 8200
+Wire Wire Line
+	17275 8200 17275 8550
+Connection ~ 15575 8200
+Wire Wire Line
+	19000 8200 19000 8550
+Connection ~ 17275 8200
+Wire Wire Line
+	20700 8200 20700 8550
+Connection ~ 19000 8200
+Connection ~ 2075 8400
+Connection ~ 1975 8300
+Connection ~ 1875 8200
+Text Label 1400 8400 0    60   ~ 0
+S0
+Text Label 1400 8300 0    60   ~ 0
+S1
+Text Label 1400 8200 0    60   ~ 0
+S2
+Wire Wire Line
+	1675 8550 1675 8500
+Wire Wire Line
+	1400 8500 20500 8500
+Wire Wire Line
+	3375 8500 3375 8550
+Wire Wire Line
+	5100 8500 5100 8550
+Connection ~ 3375 8500
+Wire Wire Line
+	6800 8500 6800 8550
+Connection ~ 5100 8500
+Wire Wire Line
+	8525 8500 8525 8550
+Connection ~ 6800 8500
+Wire Wire Line
+	10225 8500 10225 8550
+Connection ~ 8525 8500
+Wire Wire Line
+	11950 8500 11950 8550
+Connection ~ 10225 8500
+Wire Wire Line
+	13650 8500 13650 8550
+Connection ~ 11950 8500
+Wire Wire Line
+	15375 8500 15375 8550
+Connection ~ 13650 8500
+Wire Wire Line
+	17075 8500 17075 8550
+Connection ~ 15375 8500
+Wire Wire Line
+	18800 8500 18800 8550
+Connection ~ 17075 8500
+Wire Wire Line
+	20500 8500 20500 8550
+Connection ~ 18800 8500
+Wire Wire Line
+	2575 8550 2575 7800
+Wire Wire Line
+	2675 8550 2675 7800
+Wire Wire Line
+	2775 8550 2775 7800
+Wire Wire Line
+	2875 8550 2875 7800
+Wire Wire Line
+	2975 8550 2975 7800
+Text Label 2975 7800 0    60   ~ 0
+OUTa0
+Text Label 2875 7800 0    60   ~ 0
+OUTb0
+Text Label 2775 7800 0    60   ~ 0
+OUTc0
+Text Label 2675 7800 0    60   ~ 0
+OUTd0
+Text Label 2575 7800 0    60   ~ 0
+OUTe0
+Wire Wire Line
+	4275 8550 4275 7800
+Wire Wire Line
+	4375 8550 4375 7800
+Wire Wire Line
+	4475 8550 4475 7800
+Wire Wire Line
+	4575 8550 4575 7800
+Wire Wire Line
+	4675 8550 4675 7800
+Text Label 4675 7800 0    60   ~ 0
+OUTa1
+Text Label 4575 7800 0    60   ~ 0
+OUTb1
+Text Label 4475 7800 0    60   ~ 0
+OUTc1
+Text Label 4375 7800 0    60   ~ 0
+OUTd1
+Text Label 4275 7800 0    60   ~ 0
+OUTe1
+Wire Wire Line
+	6000 8550 6000 7800
+Wire Wire Line
+	6100 8550 6100 7800
+Wire Wire Line
+	6200 8550 6200 7800
+Wire Wire Line
+	6300 8550 6300 7800
+Wire Wire Line
+	6400 8550 6400 7800
+Text Label 6400 7800 0    60   ~ 0
+OUTa2
+Text Label 6300 7800 0    60   ~ 0
+OUTb2
+Text Label 6200 7800 0    60   ~ 0
+OUTc2
+Text Label 6100 7800 0    60   ~ 0
+OUTd2
+Text Label 6000 7800 0    60   ~ 0
+OUTe2
+Wire Wire Line
+	7700 8550 7700 7800
+Wire Wire Line
+	7800 8550 7800 7800
+Wire Wire Line
+	7900 8550 7900 7800
+Wire Wire Line
+	8000 8550 8000 7800
+Wire Wire Line
+	8100 8550 8100 7800
+Text Label 8100 7800 0    60   ~ 0
+OUTa3
+Text Label 8000 7800 0    60   ~ 0
+OUTb3
+Text Label 7900 7800 0    60   ~ 0
+OUTc0
+Text Label 7800 7800 0    60   ~ 0
+OUTd3
+Text Label 7700 7800 0    60   ~ 0
+OUTe3
+Wire Wire Line
+	9425 8550 9425 7800
+Wire Wire Line
+	9525 8550 9525 7800
+Wire Wire Line
+	9625 8550 9625 7800
+Wire Wire Line
+	9725 8550 9725 7800
+Wire Wire Line
+	9825 8550 9825 7800
+Text Label 9825 7800 0    60   ~ 0
+OUTa4
+Text Label 9725 7800 0    60   ~ 0
+OUTb4
+Text Label 9625 7800 0    60   ~ 0
+OUTc4
+Text Label 9525 7800 0    60   ~ 0
+OUTd4
+Text Label 9425 7800 0    60   ~ 0
+OUTe4
+Wire Wire Line
+	11125 8550 11125 7800
+Wire Wire Line
+	11225 8550 11225 7800
+Wire Wire Line
+	11325 8550 11325 7800
+Wire Wire Line
+	11425 8550 11425 7800
+Wire Wire Line
+	11525 8550 11525 7800
+Text Label 11525 7800 0    60   ~ 0
+OUTa5
+Text Label 11425 7800 0    60   ~ 0
+OUTb5
+Text Label 11325 7800 0    60   ~ 0
+OUTc5
+Text Label 11225 7800 0    60   ~ 0
+OUTd5
+Text Label 11125 7800 0    60   ~ 0
+OUTe5
+Wire Wire Line
+	12850 8550 12850 7800
+Wire Wire Line
+	12950 8550 12950 7800
+Wire Wire Line
+	13050 8550 13050 7800
+Wire Wire Line
+	13150 8550 13150 7800
+Wire Wire Line
+	13250 8550 13250 7800
+Text Label 13250 7800 0    60   ~ 0
+OUTa6
+Text Label 13150 7800 0    60   ~ 0
+OUTb6
+Text Label 13050 7800 0    60   ~ 0
+OUTc6
+Text Label 12950 7800 0    60   ~ 0
+OUTd6
+Text Label 12850 7800 0    60   ~ 0
+OUTe6
+Wire Wire Line
+	14550 8550 14550 7800
+Wire Wire Line
+	14650 8550 14650 7800
+Wire Wire Line
+	14750 8550 14750 7800
+Wire Wire Line
+	14850 8550 14850 7800
+Wire Wire Line
+	14950 8550 14950 7800
+Text Label 14950 7800 0    60   ~ 0
+OUTa7
+Text Label 14850 7800 0    60   ~ 0
+OUTb7
+Text Label 14750 7800 0    60   ~ 0
+OUTc7
+Text Label 14650 7800 0    60   ~ 0
+OUTd7
+Text Label 14550 7800 0    60   ~ 0
+OUTe7
+Wire Wire Line
+	16275 8550 16275 7800
+Wire Wire Line
+	16375 8550 16375 7800
+Wire Wire Line
+	16475 8550 16475 7800
+Wire Wire Line
+	16575 8550 16575 7800
+Wire Wire Line
+	16675 8550 16675 7800
+Text Label 16675 7800 0    60   ~ 0
+OUTa8
+Text Label 16575 7800 0    60   ~ 0
+OUTb8
+Text Label 16475 7800 0    60   ~ 0
+OUTc8
+Text Label 16375 7800 0    60   ~ 0
+OUTd8
+Text Label 16275 7800 0    60   ~ 0
+OUTe8
+Wire Wire Line
+	17975 8550 17975 7800
+Wire Wire Line
+	18075 8550 18075 7800
+Wire Wire Line
+	18175 8550 18175 7800
+Wire Wire Line
+	18275 8550 18275 7800
+Wire Wire Line
+	18375 8550 18375 7800
+Text Label 18375 7800 0    60   ~ 0
+OUTa9
+Text Label 18275 7800 0    60   ~ 0
+OUTb9
+Text Label 18175 7800 0    60   ~ 0
+OUTc9
+Text Label 18075 7800 0    60   ~ 0
+OUTd9
+Text Label 17975 7800 0    60   ~ 0
+OUTe9
+Wire Wire Line
+	19700 8550 19700 7800
+Wire Wire Line
+	19800 8550 19800 7800
+Wire Wire Line
+	19900 8550 19900 7800
+Wire Wire Line
+	20000 8550 20000 7800
+Wire Wire Line
+	20100 8550 20100 7800
+Text Label 20100 7800 0    60   ~ 0
+OUTa10
+Text Label 20000 7800 0    60   ~ 0
+OUTb10
+Text Label 19900 7800 0    60   ~ 0
+OUTc10
+Text Label 19800 7800 0    60   ~ 0
+OUTd10
+Text Label 19700 7800 0    60   ~ 0
+OUTe10
+Wire Wire Line
+	21400 8550 21400 7800
+Wire Wire Line
+	21500 8550 21500 7800
+Wire Wire Line
+	21600 8550 21600 7800
+Wire Wire Line
+	21700 8550 21700 7800
+Wire Wire Line
+	21800 8550 21800 7800
+Text Label 21800 7800 0    60   ~ 0
+OUTa11
+Text Label 21700 7800 0    60   ~ 0
+OUTb11
+Text Label 21600 7800 0    60   ~ 0
+OUTc11
+Text Label 21500 7800 0    60   ~ 0
+OUTd11
+Text Label 21400 7800 0    60   ~ 0
+OUTe11
+Text Label 2825 9950 0    60   ~ 0
+OUT0
+Text Label 4525 9950 0    60   ~ 0
+OUT1
+Text Label 6250 9950 0    60   ~ 0
+OUT2
+Text Label 7950 9950 0    60   ~ 0
+OUT3
+Text Label 9675 9950 0    60   ~ 0
+OUT4
+Text Label 11375 9950 0    60   ~ 0
+OUT5
+Text Label 13100 9950 0    60   ~ 0
+OUT6
+Text Label 14800 9950 0    60   ~ 0
+OUT7
+Text Label 16525 9950 0    60   ~ 0
+OUT8
+Text Label 18225 9950 0    60   ~ 0
+OUT9
+Text Label 19950 9950 0    60   ~ 0
+OUT10
+Text Label 21650 9950 0    60   ~ 0
+OUT11
+$Comp
+L C_Small C1
+U 1 1 5AC4BCD0
+P 4875 3550
+F 0 "C1" H 4885 3620 50  0000 L CNN
+F 1 "1uF" H 4885 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 4875 3550 50  0001 C CNN
+F 3 "" H 4875 3550 50  0000 C CNN
+	1    4875 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C2
+U 1 1 5AC4E758
+P 5075 3550
+F 0 "C2" H 5085 3620 50  0000 L CNN
+F 1 "1uF" H 5085 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 5075 3550 50  0001 C CNN
+F 3 "" H 5075 3550 50  0000 C CNN
+	1    5075 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C3
+U 1 1 5AC4E816
+P 5275 3550
+F 0 "C3" H 5285 3620 50  0000 L CNN
+F 1 "1uF" H 5285 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 5275 3550 50  0001 C CNN
+F 3 "" H 5275 3550 50  0000 C CNN
+	1    5275 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C4
+U 1 1 5AC4E8D6
+P 5475 3550
+F 0 "C4" H 5485 3620 50  0000 L CNN
+F 1 "1uF" H 5485 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 5475 3550 50  0001 C CNN
+F 3 "" H 5475 3550 50  0000 C CNN
+	1    5475 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C5
+U 1 1 5AC4E992
+P 5675 3550
+F 0 "C5" H 5685 3620 50  0000 L CNN
+F 1 "1uF" H 5685 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 5675 3550 50  0001 C CNN
+F 3 "" H 5675 3550 50  0000 C CNN
+	1    5675 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C6
+U 1 1 5AC4ECB4
+P 5875 3550
+F 0 "C6" H 5885 3620 50  0000 L CNN
+F 1 "1uF" H 5885 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 5875 3550 50  0001 C CNN
+F 3 "" H 5875 3550 50  0000 C CNN
+	1    5875 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C7
+U 1 1 5AC4ECBA
+P 6075 3550
+F 0 "C7" H 6085 3620 50  0000 L CNN
+F 1 "1uF" H 6085 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 6075 3550 50  0001 C CNN
+F 3 "" H 6075 3550 50  0000 C CNN
+	1    6075 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C8
+U 1 1 5AC4ECC0
+P 6275 3550
+F 0 "C8" H 6285 3620 50  0000 L CNN
+F 1 "1uF" H 6285 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 6275 3550 50  0001 C CNN
+F 3 "" H 6275 3550 50  0000 C CNN
+	1    6275 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C9
+U 1 1 5AC4ECC6
+P 6475 3550
+F 0 "C9" H 6485 3620 50  0000 L CNN
+F 1 "1uF" H 6485 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 6475 3550 50  0001 C CNN
+F 3 "" H 6475 3550 50  0000 C CNN
+	1    6475 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C10
+U 1 1 5AC4ECCC
+P 6675 3550
+F 0 "C10" H 6685 3620 50  0000 L CNN
+F 1 "1uF" H 6685 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 6675 3550 50  0001 C CNN
+F 3 "" H 6675 3550 50  0000 C CNN
+	1    6675 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C11
+U 1 1 5AC507E2
+P 6875 3550
+F 0 "C11" H 6885 3620 50  0000 L CNN
+F 1 "1uF" H 6885 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 6875 3550 50  0001 C CNN
+F 3 "" H 6875 3550 50  0000 C CNN
+	1    6875 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C12
+U 1 1 5AC507E8
+P 7075 3550
+F 0 "C12" H 7085 3620 50  0000 L CNN
+F 1 "1uF" H 7085 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 7075 3550 50  0001 C CNN
+F 3 "" H 7075 3550 50  0000 C CNN
+	1    7075 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C13
+U 1 1 5AC507EE
+P 7275 3550
+F 0 "C13" H 7285 3620 50  0000 L CNN
+F 1 "1uF" H 7285 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 7275 3550 50  0001 C CNN
+F 3 "" H 7275 3550 50  0000 C CNN
+	1    7275 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C14
+U 1 1 5AC507F4
+P 7475 3550
+F 0 "C14" H 7485 3620 50  0000 L CNN
+F 1 "1uF" H 7485 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 7475 3550 50  0001 C CNN
+F 3 "" H 7475 3550 50  0000 C CNN
+	1    7475 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C15
+U 1 1 5AC507FA
+P 7675 3550
+F 0 "C15" H 7685 3620 50  0000 L CNN
+F 1 "1uF" H 7685 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 7675 3550 50  0001 C CNN
+F 3 "" H 7675 3550 50  0000 C CNN
+	1    7675 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C16
+U 1 1 5AC50800
+P 7875 3550
+F 0 "C16" H 7885 3620 50  0000 L CNN
+F 1 "1uF" H 7885 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 7875 3550 50  0001 C CNN
+F 3 "" H 7875 3550 50  0000 C CNN
+	1    7875 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C17
+U 1 1 5AC50806
+P 8075 3550
+F 0 "C17" H 8085 3620 50  0000 L CNN
+F 1 "1uF" H 8085 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 8075 3550 50  0001 C CNN
+F 3 "" H 8075 3550 50  0000 C CNN
+	1    8075 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C18
+U 1 1 5AC5080C
+P 8275 3550
+F 0 "C18" H 8285 3620 50  0000 L CNN
+F 1 "1uF" H 8285 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 8275 3550 50  0001 C CNN
+F 3 "" H 8275 3550 50  0000 C CNN
+	1    8275 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C19
+U 1 1 5AC50812
+P 8475 3550
+F 0 "C19" H 8485 3620 50  0000 L CNN
+F 1 "1uF" H 8485 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 8475 3550 50  0001 C CNN
+F 3 "" H 8475 3550 50  0000 C CNN
+	1    8475 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C20
+U 1 1 5AC50818
+P 8675 3550
+F 0 "C20" H 8685 3620 50  0000 L CNN
+F 1 "1uF" H 8685 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 8675 3550 50  0001 C CNN
+F 3 "" H 8675 3550 50  0000 C CNN
+	1    8675 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C21
+U 1 1 5AC51216
+P 8875 3550
+F 0 "C21" H 8885 3620 50  0000 L CNN
+F 1 "1uF" H 8885 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 8875 3550 50  0001 C CNN
+F 3 "" H 8875 3550 50  0000 C CNN
+	1    8875 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C22
+U 1 1 5AC5121C
+P 9075 3550
+F 0 "C22" H 9085 3620 50  0000 L CNN
+F 1 "1uF" H 9085 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 9075 3550 50  0001 C CNN
+F 3 "" H 9075 3550 50  0000 C CNN
+	1    9075 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C23
+U 1 1 5AC51222
+P 9275 3550
+F 0 "C23" H 9285 3620 50  0000 L CNN
+F 1 "1uF" H 9285 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 9275 3550 50  0001 C CNN
+F 3 "" H 9275 3550 50  0000 C CNN
+	1    9275 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C24
+U 1 1 5AC51228
+P 9475 3550
+F 0 "C24" H 9485 3620 50  0000 L CNN
+F 1 "1uF" H 9485 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 9475 3550 50  0001 C CNN
+F 3 "" H 9475 3550 50  0000 C CNN
+	1    9475 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C25
+U 1 1 5AC5122E
+P 9675 3550
+F 0 "C25" H 9685 3620 50  0000 L CNN
+F 1 "1uF" H 9685 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 9675 3550 50  0001 C CNN
+F 3 "" H 9675 3550 50  0000 C CNN
+	1    9675 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C26
+U 1 1 5AC51234
+P 9875 3550
+F 0 "C26" H 9885 3620 50  0000 L CNN
+F 1 "1uF" H 9885 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 9875 3550 50  0001 C CNN
+F 3 "" H 9875 3550 50  0000 C CNN
+	1    9875 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C27
+U 1 1 5AC5123A
+P 10075 3550
+F 0 "C27" H 10085 3620 50  0000 L CNN
+F 1 "1uF" H 10085 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 10075 3550 50  0001 C CNN
+F 3 "" H 10075 3550 50  0000 C CNN
+	1    10075 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C28
+U 1 1 5AC51240
+P 10275 3550
+F 0 "C28" H 10285 3620 50  0000 L CNN
+F 1 "1uF" H 10285 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 10275 3550 50  0001 C CNN
+F 3 "" H 10275 3550 50  0000 C CNN
+	1    10275 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C29
+U 1 1 5AC51246
+P 10475 3550
+F 0 "C29" H 10485 3620 50  0000 L CNN
+F 1 "1uF" H 10485 3470 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 10475 3550 50  0001 C CNN
+F 3 "" H 10475 3550 50  0000 C CNN
+	1    10475 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4625 3450 10475 3450
+Connection ~ 10275 3450
+Connection ~ 10075 3450
+Connection ~ 9875 3450
+Connection ~ 9675 3450
+Connection ~ 9475 3450
+Connection ~ 9275 3450
+Connection ~ 9075 3450
+Connection ~ 8875 3450
+Connection ~ 8675 3450
+Connection ~ 8475 3450
+Connection ~ 8275 3450
+Connection ~ 8075 3450
+Connection ~ 7875 3450
+Connection ~ 7675 3450
+Connection ~ 7475 3450
+Connection ~ 7275 3450
+Connection ~ 7075 3450
+Connection ~ 6875 3450
+Connection ~ 6675 3450
+Connection ~ 6475 3450
+Connection ~ 6275 3450
+Connection ~ 6075 3450
+Connection ~ 5875 3450
+Connection ~ 5675 3450
+Connection ~ 5475 3450
+Connection ~ 5275 3450
+Connection ~ 5075 3450
+Wire Wire Line
+	4625 3650 10475 3650
+Connection ~ 5075 3650
+Connection ~ 5275 3650
+Connection ~ 4875 3450
+Connection ~ 4875 3650
+Text Label 4625 3450 0    60   ~ 0
+VCC
+Text Label 4625 3650 0    60   ~ 0
+GND
+Connection ~ 5475 3650
+Connection ~ 5675 3650
+Connection ~ 5875 3650
+Connection ~ 6075 3650
+Connection ~ 6275 3650
+Connection ~ 6475 3650
+Connection ~ 6675 3650
+Connection ~ 6875 3650
+Connection ~ 7075 3650
+Connection ~ 7275 3650
+Connection ~ 7475 3650
+Connection ~ 7675 3650
+Connection ~ 7875 3650
+Connection ~ 8075 3650
+Connection ~ 8275 3650
+Connection ~ 8475 3650
+Connection ~ 8675 3650
+Connection ~ 8875 3650
+Connection ~ 9075 3650
+Connection ~ 9275 3650
+Connection ~ 9475 3650
+Connection ~ 9675 3650
+Connection ~ 9875 3650
+Connection ~ 10075 3650
+Connection ~ 10275 3650
+Connection ~ 1675 8500
+Text Label 1400 8500 0    60   ~ 0
+GND
+NoConn ~ 2275 8550
+NoConn ~ 2375 8550
+NoConn ~ 2475 8550
+NoConn ~ 3975 8550
+NoConn ~ 4075 8550
+NoConn ~ 4175 8550
+NoConn ~ 5700 8550
+NoConn ~ 5800 8550
+NoConn ~ 5900 8550
+NoConn ~ 7400 8550
+NoConn ~ 7500 8550
+NoConn ~ 7600 8550
+NoConn ~ 9125 8550
+NoConn ~ 9225 8550
+NoConn ~ 9325 8550
+NoConn ~ 10825 8550
+NoConn ~ 10925 8550
+NoConn ~ 11025 8550
+NoConn ~ 12550 8550
+NoConn ~ 12650 8550
+NoConn ~ 12750 8550
+NoConn ~ 14250 8550
+NoConn ~ 14350 8550
+NoConn ~ 14450 8550
+NoConn ~ 15975 8550
+NoConn ~ 16075 8550
+NoConn ~ 16175 8550
+NoConn ~ 17675 8550
+NoConn ~ 17775 8550
+NoConn ~ 17875 8550
+NoConn ~ 2725 9950
+NoConn ~ 4425 9950
+NoConn ~ 6150 9950
+NoConn ~ 7850 9950
+NoConn ~ 9575 9950
+NoConn ~ 11275 9950
+NoConn ~ 13000 9950
+NoConn ~ 14700 9950
+NoConn ~ 16425 9950
+NoConn ~ 18125 9950
+NoConn ~ 19850 9950
+NoConn ~ 21550 9950
+NoConn ~ 19400 8550
+NoConn ~ 19500 8550
+NoConn ~ 19600 8550
+NoConn ~ 21100 8550
+NoConn ~ 21200 8550
+NoConn ~ 21300 8550
+$Comp
+L 74LS125 U?
+U 1 1 5AC39339
+P 4600 11575
+F 0 "U?" H 4600 11675 50  0000 L BNN
+F 1 "74LS125" H 4650 11425 50  0000 L TNN
+F 2 "" H 4600 11575 50  0000 C CNN
+F 3 "" H 4600 11575 50  0000 C CNN
+	1    4600 11575
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS125 U?
+U 2 1 5AC3BB8F
+P 5700 11575
+F 0 "U?" H 5700 11675 50  0000 L BNN
+F 1 "74LS125" H 5750 11425 50  0000 L TNN
+F 2 "" H 5700 11575 50  0000 C CNN
+F 3 "" H 5700 11575 50  0000 C CNN
+	2    5700 11575
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS125 U?
+U 3 1 5AC3BC76
+P 6825 11575
+F 0 "U?" H 6825 11675 50  0000 L BNN
+F 1 "74LS125" H 6875 11425 50  0000 L TNN
+F 2 "" H 6825 11575 50  0000 C CNN
+F 3 "" H 6825 11575 50  0000 C CNN
+	3    6825 11575
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS125 U?
+U 4 1 5AC3BD7D
+P 8000 11575
+F 0 "U?" H 8000 11675 50  0000 L BNN
+F 1 "74LS125" H 8050 11425 50  0000 L TNN
+F 2 "" H 8000 11575 50  0000 C CNN
+F 3 "" H 8000 11575 50  0000 C CNN
+	4    8000 11575
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS125 U?
+U 1 1 5AC3CECA
+P 9600 11575
+F 0 "U?" H 9600 11675 50  0000 L BNN
+F 1 "74LS125" H 9650 11425 50  0000 L TNN
+F 2 "" H 9600 11575 50  0000 C CNN
+F 3 "" H 9600 11575 50  0000 C CNN
+	1    9600 11575
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS125 U?
+U 1 1 5AC3CED0
+P 10700 11575
+F 0 "U?" H 10700 11675 50  0000 L BNN
+F 1 "74LS125" H 10750 11425 50  0000 L TNN
+F 2 "" H 10700 11575 50  0000 C CNN
+F 3 "" H 10700 11575 50  0000 C CNN
+	1    10700 11575
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS125 U?
+U 1 1 5AC3CED6
+P 11825 11575
+F 0 "U?" H 11825 11675 50  0000 L BNN
+F 1 "74LS125" H 11875 11425 50  0000 L TNN
+F 2 "" H 11825 11575 50  0000 C CNN
+F 3 "" H 11825 11575 50  0000 C CNN
+	1    11825 11575
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS125 U?
+U 1 1 5AC3CEDC
+P 13000 11575
+F 0 "U?" H 13000 11675 50  0000 L BNN
+F 1 "74LS125" H 13050 11425 50  0000 L TNN
+F 2 "" H 13000 11575 50  0000 C CNN
+F 3 "" H 13000 11575 50  0000 C CNN
+	1    13000 11575
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS125 U?
+U 1 1 5AC3EAD4
+P 14625 11575
+F 0 "U?" H 14625 11675 50  0000 L BNN
+F 1 "74LS125" H 14675 11425 50  0000 L TNN
+F 2 "" H 14625 11575 50  0000 C CNN
+F 3 "" H 14625 11575 50  0000 C CNN
+	1    14625 11575
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS125 U?
+U 1 1 5AC3EADA
+P 15725 11575
+F 0 "U?" H 15725 11675 50  0000 L BNN
+F 1 "74LS125" H 15775 11425 50  0000 L TNN
+F 2 "" H 15725 11575 50  0000 C CNN
+F 3 "" H 15725 11575 50  0000 C CNN
+	1    15725 11575
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS125 U?
+U 1 1 5AC3EAE0
+P 16850 11575
+F 0 "U?" H 16850 11675 50  0000 L BNN
+F 1 "74LS125" H 16900 11425 50  0000 L TNN
+F 2 "" H 16850 11575 50  0000 C CNN
+F 3 "" H 16850 11575 50  0000 C CNN
+	1    16850 11575
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS125 U?
+U 1 1 5AC3EAE6
+P 18025 11575
+F 0 "U?" H 18025 11675 50  0000 L BNN
+F 1 "74LS125" H 18075 11425 50  0000 L TNN
+F 2 "" H 18025 11575 50  0000 C CNN
+F 3 "" H 18025 11575 50  0000 C CNN
+	1    18025 11575
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
