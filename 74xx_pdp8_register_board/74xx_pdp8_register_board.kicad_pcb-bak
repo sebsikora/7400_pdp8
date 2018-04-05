@@ -14,10 +14,10 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal hide)
-    (1 In1.Cu signal hide)
-    (2 In2.Cu signal hide)
-    (31 B.Cu signal hide)
+    (0 F.Cu signal)
+    (1 In1.Cu signal)
+    (2 In2.Cu signal)
+    (31 B.Cu signal)
     (33 F.Adhes user)
     (35 F.Paste user)
     (37 F.SilkS user)
@@ -62,7 +62,7 @@
     (pad_drill 0.762)
     (pad_to_mask_clearance 0.2)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFFF7F)
+    (visible_elements FFFFF77F)
     (pcbplotparams
       (layerselection 0x00030_80000001)
       (usegerberextensions false)

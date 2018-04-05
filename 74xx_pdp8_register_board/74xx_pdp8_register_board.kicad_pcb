@@ -3,9 +3,9 @@
   (general
     (links 262)
     (no_connects 154)
-    (area 17.704999 104.064999 167.715001 193.115001)
+    (area 17.634999 104.064999 167.715001 193.195001)
     (thickness 1.6)
-    (drawings 7)
+    (drawings 6)
     (tracks 562)
     (zones 0)
     (modules 39)
@@ -33,7 +33,7 @@
   )
 
   (setup
-    (last_trace_width 1.5)
+    (last_trace_width 0.25)
     (user_trace_width 0.5)
     (user_trace_width 1)
     (user_trace_width 1.5)
@@ -2126,11 +2126,10 @@
     )
   )
 
+  (gr_line (start 154.94 193.04) (end 137.16 193.04) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 154.94 104.14) (end 154.94 193.04) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 17.78 104.14) (end 154.94 104.14) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 17.78 104.14) (end 17.78 193.04) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 139.7 193.04) (end 167.64 193.04) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 167.64 193.04) (end 137.16 193.04) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 167.64 104.14) (end 167.64 193.04) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 17.78 104.14) (end 167.64 104.14) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 116.84 193.04) (end 137.16 193.04) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 116.84 193.04) (end 17.78 193.04) (angle 90) (layer Edge.Cuts) (width 0.15))
 
