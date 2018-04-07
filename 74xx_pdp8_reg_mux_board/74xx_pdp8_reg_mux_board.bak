@@ -475,227 +475,217 @@ OUT_11
 $Comp
 L C_Small C1
 U 1 1 5AC4BCD0
-P 9925 2175
-F 0 "C1" H 9935 2245 50  0000 L CNN
-F 1 "1uF" H 9935 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 9925 2175 50  0001 C CNN
-F 3 "" H 9925 2175 50  0000 C CNN
-	1    9925 2175
+P 10600 2175
+F 0 "C1" H 10610 2245 50  0000 L CNN
+F 1 "1uF" H 10610 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 10600 2175 50  0001 C CNN
+F 3 "" H 10600 2175 50  0000 C CNN
+	1    10600 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C2
 U 1 1 5AC4E758
-P 10125 2175
-F 0 "C2" H 10135 2245 50  0000 L CNN
-F 1 "1uF" H 10135 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 10125 2175 50  0001 C CNN
-F 3 "" H 10125 2175 50  0000 C CNN
-	1    10125 2175
+P 10800 2175
+F 0 "C2" H 10810 2245 50  0000 L CNN
+F 1 "1uF" H 10810 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 10800 2175 50  0001 C CNN
+F 3 "" H 10800 2175 50  0000 C CNN
+	1    10800 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C3
 U 1 1 5AC4E816
-P 10325 2175
-F 0 "C3" H 10335 2245 50  0000 L CNN
-F 1 "1uF" H 10335 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 10325 2175 50  0001 C CNN
-F 3 "" H 10325 2175 50  0000 C CNN
-	1    10325 2175
+P 11000 2175
+F 0 "C3" H 11010 2245 50  0000 L CNN
+F 1 "1uF" H 11010 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 11000 2175 50  0001 C CNN
+F 3 "" H 11000 2175 50  0000 C CNN
+	1    11000 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C4
 U 1 1 5AC4E8D6
-P 10525 2175
-F 0 "C4" H 10535 2245 50  0000 L CNN
-F 1 "1uF" H 10535 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 10525 2175 50  0001 C CNN
-F 3 "" H 10525 2175 50  0000 C CNN
-	1    10525 2175
+P 11200 2175
+F 0 "C4" H 11210 2245 50  0000 L CNN
+F 1 "1uF" H 11210 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 11200 2175 50  0001 C CNN
+F 3 "" H 11200 2175 50  0000 C CNN
+	1    11200 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C5
 U 1 1 5AC4E992
-P 10725 2175
-F 0 "C5" H 10735 2245 50  0000 L CNN
-F 1 "1uF" H 10735 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 10725 2175 50  0001 C CNN
-F 3 "" H 10725 2175 50  0000 C CNN
-	1    10725 2175
+P 11400 2175
+F 0 "C5" H 11410 2245 50  0000 L CNN
+F 1 "1uF" H 11410 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 11400 2175 50  0001 C CNN
+F 3 "" H 11400 2175 50  0000 C CNN
+	1    11400 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C6
 U 1 1 5AC4ECB4
-P 10925 2175
-F 0 "C6" H 10935 2245 50  0000 L CNN
-F 1 "1uF" H 10935 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 10925 2175 50  0001 C CNN
-F 3 "" H 10925 2175 50  0000 C CNN
-	1    10925 2175
+P 11600 2175
+F 0 "C6" H 11610 2245 50  0000 L CNN
+F 1 "1uF" H 11610 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 11600 2175 50  0001 C CNN
+F 3 "" H 11600 2175 50  0000 C CNN
+	1    11600 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C7
 U 1 1 5AC4ECBA
-P 11125 2175
-F 0 "C7" H 11135 2245 50  0000 L CNN
-F 1 "1uF" H 11135 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 11125 2175 50  0001 C CNN
-F 3 "" H 11125 2175 50  0000 C CNN
-	1    11125 2175
+P 11800 2175
+F 0 "C7" H 11810 2245 50  0000 L CNN
+F 1 "1uF" H 11810 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 11800 2175 50  0001 C CNN
+F 3 "" H 11800 2175 50  0000 C CNN
+	1    11800 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C8
 U 1 1 5AC4ECC0
-P 11325 2175
-F 0 "C8" H 11335 2245 50  0000 L CNN
-F 1 "1uF" H 11335 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 11325 2175 50  0001 C CNN
-F 3 "" H 11325 2175 50  0000 C CNN
-	1    11325 2175
+P 12000 2175
+F 0 "C8" H 12010 2245 50  0000 L CNN
+F 1 "1uF" H 12010 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 12000 2175 50  0001 C CNN
+F 3 "" H 12000 2175 50  0000 C CNN
+	1    12000 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C9
 U 1 1 5AC4ECC6
-P 11525 2175
-F 0 "C9" H 11535 2245 50  0000 L CNN
-F 1 "1uF" H 11535 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 11525 2175 50  0001 C CNN
-F 3 "" H 11525 2175 50  0000 C CNN
-	1    11525 2175
+P 12200 2175
+F 0 "C9" H 12210 2245 50  0000 L CNN
+F 1 "1uF" H 12210 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 12200 2175 50  0001 C CNN
+F 3 "" H 12200 2175 50  0000 C CNN
+	1    12200 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C10
 U 1 1 5AC4ECCC
-P 11725 2175
-F 0 "C10" H 11735 2245 50  0000 L CNN
-F 1 "1uF" H 11735 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 11725 2175 50  0001 C CNN
-F 3 "" H 11725 2175 50  0000 C CNN
-	1    11725 2175
+P 12400 2175
+F 0 "C10" H 12410 2245 50  0000 L CNN
+F 1 "1uF" H 12410 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 12400 2175 50  0001 C CNN
+F 3 "" H 12400 2175 50  0000 C CNN
+	1    12400 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C11
 U 1 1 5AC507E2
-P 11925 2175
-F 0 "C11" H 11935 2245 50  0000 L CNN
-F 1 "1uF" H 11935 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 11925 2175 50  0001 C CNN
-F 3 "" H 11925 2175 50  0000 C CNN
-	1    11925 2175
+P 12600 2175
+F 0 "C11" H 12610 2245 50  0000 L CNN
+F 1 "1uF" H 12610 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 12600 2175 50  0001 C CNN
+F 3 "" H 12600 2175 50  0000 C CNN
+	1    12600 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C12
 U 1 1 5AC507E8
-P 12125 2175
-F 0 "C12" H 12135 2245 50  0000 L CNN
-F 1 "1uF" H 12135 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 12125 2175 50  0001 C CNN
-F 3 "" H 12125 2175 50  0000 C CNN
-	1    12125 2175
+P 12800 2175
+F 0 "C12" H 12810 2245 50  0000 L CNN
+F 1 "1uF" H 12810 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 12800 2175 50  0001 C CNN
+F 3 "" H 12800 2175 50  0000 C CNN
+	1    12800 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C13
 U 1 1 5AC507EE
-P 12325 2175
-F 0 "C13" H 12335 2245 50  0000 L CNN
-F 1 "1uF" H 12335 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 12325 2175 50  0001 C CNN
-F 3 "" H 12325 2175 50  0000 C CNN
-	1    12325 2175
+P 13000 2175
+F 0 "C13" H 13010 2245 50  0000 L CNN
+F 1 "1uF" H 13010 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 13000 2175 50  0001 C CNN
+F 3 "" H 13000 2175 50  0000 C CNN
+	1    13000 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C14
 U 1 1 5AC507F4
-P 12525 2175
-F 0 "C14" H 12535 2245 50  0000 L CNN
-F 1 "1uF" H 12535 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 12525 2175 50  0001 C CNN
-F 3 "" H 12525 2175 50  0000 C CNN
-	1    12525 2175
+P 13200 2175
+F 0 "C14" H 13210 2245 50  0000 L CNN
+F 1 "1uF" H 13210 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 13200 2175 50  0001 C CNN
+F 3 "" H 13200 2175 50  0000 C CNN
+	1    13200 2175
 	1    0    0    -1  
 $EndComp
 $Comp
 L C_Small C15
 U 1 1 5AC507FA
-P 12725 2175
-F 0 "C15" H 12735 2245 50  0000 L CNN
-F 1 "1uF" H 12735 2095 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 12725 2175 50  0001 C CNN
-F 3 "" H 12725 2175 50  0000 C CNN
-	1    12725 2175
+P 13400 2175
+F 0 "C15" H 13410 2245 50  0000 L CNN
+F 1 "1uF" H 13410 2095 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Disc_D3_P2.5" H 13400 2175 50  0001 C CNN
+F 3 "" H 13400 2175 50  0000 C CNN
+	1    13400 2175
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9675 2075 12725 2075
-Connection ~ 12525 2075
-Connection ~ 12325 2075
-Connection ~ 12125 2075
-Connection ~ 11925 2075
-Connection ~ 11725 2075
-Connection ~ 11525 2075
-Connection ~ 11325 2075
-Connection ~ 11125 2075
-Connection ~ 10925 2075
-Connection ~ 10725 2075
-Connection ~ 10525 2075
-Connection ~ 10325 2075
-Connection ~ 10125 2075
+	10350 2075 13400 2075
+Connection ~ 13200 2075
+Connection ~ 13000 2075
+Connection ~ 12800 2075
+Connection ~ 12600 2075
+Connection ~ 12400 2075
+Connection ~ 12200 2075
+Connection ~ 12000 2075
+Connection ~ 11800 2075
+Connection ~ 11600 2075
+Connection ~ 11400 2075
+Connection ~ 11200 2075
+Connection ~ 11000 2075
+Connection ~ 10800 2075
 Wire Wire Line
-	9675 2275 12725 2275
-Connection ~ 10125 2275
-Connection ~ 10325 2275
-Connection ~ 9925 2075
-Connection ~ 9925 2275
-Text Label 9675 2075 0    60   ~ 0
+	10350 2275 13400 2275
+Connection ~ 10800 2275
+Connection ~ 11000 2275
+Connection ~ 10600 2075
+Connection ~ 10600 2275
+Text Label 10350 2075 0    60   ~ 0
 VCC
-Text Label 9675 2275 0    60   ~ 0
+Text Label 10350 2275 0    60   ~ 0
 GND
-Connection ~ 10525 2275
-Connection ~ 10725 2275
-Connection ~ 10925 2275
-Connection ~ 11125 2275
-Connection ~ 11325 2275
-Connection ~ 11525 2275
-Connection ~ 11725 2275
-Connection ~ 11925 2275
-Connection ~ 12125 2275
-Connection ~ 12325 2275
-Connection ~ 12525 2275
+Connection ~ 11200 2275
+Connection ~ 11400 2275
+Connection ~ 11600 2275
+Connection ~ 11800 2275
+Connection ~ 12000 2275
+Connection ~ 12200 2275
+Connection ~ 12400 2275
+Connection ~ 12600 2275
+Connection ~ 12800 2275
+Connection ~ 13000 2275
+Connection ~ 13200 2275
 Connection ~ 1750 6350
 Text Label 1475 6350 0    60   ~ 0
 GND
 NoConn ~ 2350 6400
-NoConn ~ 2450 6400
 NoConn ~ 4050 6400
-NoConn ~ 4150 6400
 NoConn ~ 5775 6400
-NoConn ~ 5875 6400
 NoConn ~ 7475 6400
-NoConn ~ 7575 6400
 NoConn ~ 9200 6400
-NoConn ~ 9300 6400
 NoConn ~ 10900 6400
-NoConn ~ 11000 6400
 NoConn ~ 12625 6400
-NoConn ~ 12725 6400
 NoConn ~ 14325 6400
-NoConn ~ 14425 6400
 NoConn ~ 16050 6400
-NoConn ~ 16150 6400
 NoConn ~ 17750 6400
-NoConn ~ 17850 6400
 NoConn ~ 2800 7800
 NoConn ~ 4500 7800
 NoConn ~ 6225 7800
@@ -709,378 +699,320 @@ NoConn ~ 18200 7800
 NoConn ~ 19925 7800
 NoConn ~ 21625 7800
 NoConn ~ 19475 6400
-NoConn ~ 19575 6400
 NoConn ~ 21175 6400
 NoConn ~ 21275 6400
 $Comp
 L 74LS125 U3
 U 1 1 5AC39339
-P 4600 9450
-F 0 "U3" H 4600 9550 50  0000 L BNN
-F 1 "74LS125" H 4650 9300 50  0000 L TNN
-F 2 "Housings_DIP:DIP-14_W7.62mm" H 4600 9450 50  0001 C CNN
-F 3 "" H 4600 9450 50  0000 C CNN
-	1    4600 9450
+P 4800 9350
+F 0 "U3" H 4800 9450 50  0000 L BNN
+F 1 "74LS125" H 4850 9200 50  0000 L TNN
+F 2 "Housings_DIP:DIP-14_W7.62mm" H 4800 9350 50  0001 C CNN
+F 3 "" H 4800 9350 50  0000 C CNN
+	1    4800 9350
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74LS125 U3
 U 2 1 5AC3BB8F
-P 5700 9450
-F 0 "U3" H 5700 9550 50  0000 L BNN
-F 1 "74LS125" H 5750 9300 50  0000 L TNN
-F 2 "Housings_DIP:DIP-14_W7.62mm" H 5700 9450 50  0001 C CNN
-F 3 "" H 5700 9450 50  0000 C CNN
-	2    5700 9450
+P 5900 9350
+F 0 "U3" H 5900 9450 50  0000 L BNN
+F 1 "74LS125" H 5950 9200 50  0000 L TNN
+F 2 "Housings_DIP:DIP-14_W7.62mm" H 5900 9350 50  0001 C CNN
+F 3 "" H 5900 9350 50  0000 C CNN
+	2    5900 9350
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74LS125 U3
 U 3 1 5AC3BC76
-P 6825 9450
-F 0 "U3" H 6825 9550 50  0000 L BNN
-F 1 "74LS125" H 6875 9300 50  0000 L TNN
-F 2 "Housings_DIP:DIP-14_W7.62mm" H 6825 9450 50  0001 C CNN
-F 3 "" H 6825 9450 50  0000 C CNN
-	3    6825 9450
+P 7025 9350
+F 0 "U3" H 7025 9450 50  0000 L BNN
+F 1 "74LS125" H 7075 9200 50  0000 L TNN
+F 2 "Housings_DIP:DIP-14_W7.62mm" H 7025 9350 50  0001 C CNN
+F 3 "" H 7025 9350 50  0000 C CNN
+	3    7025 9350
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74LS125 U3
 U 4 1 5AC3BD7D
-P 8000 9450
-F 0 "U3" H 8000 9550 50  0000 L BNN
-F 1 "74LS125" H 8050 9300 50  0000 L TNN
-F 2 "Housings_DIP:DIP-14_W7.62mm" H 8000 9450 50  0001 C CNN
-F 3 "" H 8000 9450 50  0000 C CNN
-	4    8000 9450
+P 8200 9350
+F 0 "U3" H 8200 9450 50  0000 L BNN
+F 1 "74LS125" H 8250 9200 50  0000 L TNN
+F 2 "Housings_DIP:DIP-14_W7.62mm" H 8200 9350 50  0001 C CNN
+F 3 "" H 8200 9350 50  0000 C CNN
+	4    8200 9350
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74LS125 U7
 U 1 1 5AC3CECA
-P 9600 9450
-F 0 "U7" H 9600 9550 50  0000 L BNN
-F 1 "74LS125" H 9650 9300 50  0000 L TNN
-F 2 "Housings_DIP:DIP-14_W7.62mm" H 9600 9450 50  0001 C CNN
-F 3 "" H 9600 9450 50  0000 C CNN
-	1    9600 9450
+P 9800 9350
+F 0 "U7" H 9800 9450 50  0000 L BNN
+F 1 "74LS125" H 9850 9200 50  0000 L TNN
+F 2 "Housings_DIP:DIP-14_W7.62mm" H 9800 9350 50  0001 C CNN
+F 3 "" H 9800 9350 50  0000 C CNN
+	1    9800 9350
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74LS125 U7
 U 2 1 5AC3CED0
-P 10700 9450
-F 0 "U7" H 10700 9550 50  0000 L BNN
-F 1 "74LS125" H 10750 9300 50  0000 L TNN
-F 2 "Housings_DIP:DIP-14_W7.62mm" H 10700 9450 50  0001 C CNN
-F 3 "" H 10700 9450 50  0000 C CNN
-	2    10700 9450
+P 10900 9350
+F 0 "U7" H 10900 9450 50  0000 L BNN
+F 1 "74LS125" H 10950 9200 50  0000 L TNN
+F 2 "Housings_DIP:DIP-14_W7.62mm" H 10900 9350 50  0001 C CNN
+F 3 "" H 10900 9350 50  0000 C CNN
+	2    10900 9350
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74LS125 U7
 U 3 1 5AC3CED6
-P 11825 9450
-F 0 "U7" H 11825 9550 50  0000 L BNN
-F 1 "74LS125" H 11875 9300 50  0000 L TNN
-F 2 "Housings_DIP:DIP-14_W7.62mm" H 11825 9450 50  0001 C CNN
-F 3 "" H 11825 9450 50  0000 C CNN
-	3    11825 9450
+P 12025 9350
+F 0 "U7" H 12025 9450 50  0000 L BNN
+F 1 "74LS125" H 12075 9200 50  0000 L TNN
+F 2 "Housings_DIP:DIP-14_W7.62mm" H 12025 9350 50  0001 C CNN
+F 3 "" H 12025 9350 50  0000 C CNN
+	3    12025 9350
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74LS125 U7
 U 4 1 5AC3CEDC
-P 13000 9450
-F 0 "U7" H 13000 9550 50  0000 L BNN
-F 1 "74LS125" H 13050 9300 50  0000 L TNN
-F 2 "Housings_DIP:DIP-14_W7.62mm" H 13000 9450 50  0001 C CNN
-F 3 "" H 13000 9450 50  0000 C CNN
-	4    13000 9450
+P 13200 9350
+F 0 "U7" H 13200 9450 50  0000 L BNN
+F 1 "74LS125" H 13250 9200 50  0000 L TNN
+F 2 "Housings_DIP:DIP-14_W7.62mm" H 13200 9350 50  0001 C CNN
+F 3 "" H 13200 9350 50  0000 C CNN
+	4    13200 9350
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74LS125 U11
 U 1 1 5AC3EAD4
-P 14625 9450
-F 0 "U11" H 14625 9550 50  0000 L BNN
-F 1 "74LS125" H 14675 9300 50  0000 L TNN
-F 2 "Housings_DIP:DIP-14_W7.62mm" H 14625 9450 50  0001 C CNN
-F 3 "" H 14625 9450 50  0000 C CNN
-	1    14625 9450
+P 14825 9350
+F 0 "U11" H 14825 9450 50  0000 L BNN
+F 1 "74LS125" H 14875 9200 50  0000 L TNN
+F 2 "Housings_DIP:DIP-14_W7.62mm" H 14825 9350 50  0001 C CNN
+F 3 "" H 14825 9350 50  0000 C CNN
+	1    14825 9350
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74LS125 U11
 U 2 1 5AC3EADA
-P 15725 9450
-F 0 "U11" H 15725 9550 50  0000 L BNN
-F 1 "74LS125" H 15775 9300 50  0000 L TNN
-F 2 "Housings_DIP:DIP-14_W7.62mm" H 15725 9450 50  0001 C CNN
-F 3 "" H 15725 9450 50  0000 C CNN
-	2    15725 9450
+P 15925 9350
+F 0 "U11" H 15925 9450 50  0000 L BNN
+F 1 "74LS125" H 15975 9200 50  0000 L TNN
+F 2 "Housings_DIP:DIP-14_W7.62mm" H 15925 9350 50  0001 C CNN
+F 3 "" H 15925 9350 50  0000 C CNN
+	2    15925 9350
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74LS125 U11
 U 3 1 5AC3EAE0
-P 16850 9450
-F 0 "U11" H 16850 9550 50  0000 L BNN
-F 1 "74LS125" H 16900 9300 50  0000 L TNN
-F 2 "Housings_DIP:DIP-14_W7.62mm" H 16850 9450 50  0001 C CNN
-F 3 "" H 16850 9450 50  0000 C CNN
-	3    16850 9450
+P 17050 9350
+F 0 "U11" H 17050 9450 50  0000 L BNN
+F 1 "74LS125" H 17100 9200 50  0000 L TNN
+F 2 "Housings_DIP:DIP-14_W7.62mm" H 17050 9350 50  0001 C CNN
+F 3 "" H 17050 9350 50  0000 C CNN
+	3    17050 9350
 	1    0    0    -1  
 $EndComp
 $Comp
 L 74LS125 U11
 U 4 1 5AC3EAE6
-P 18025 9450
-F 0 "U11" H 18025 9550 50  0000 L BNN
-F 1 "74LS125" H 18075 9300 50  0000 L TNN
-F 2 "Housings_DIP:DIP-14_W7.62mm" H 18025 9450 50  0001 C CNN
-F 3 "" H 18025 9450 50  0000 C CNN
-	4    18025 9450
+P 18225 9350
+F 0 "U11" H 18225 9450 50  0000 L BNN
+F 1 "74LS125" H 18275 9200 50  0000 L TNN
+F 2 "Housings_DIP:DIP-14_W7.62mm" H 18225 9350 50  0001 C CNN
+F 3 "" H 18225 9350 50  0000 C CNN
+	4    18225 9350
 	1    0    0    -1  
 $EndComp
 $Comp
 L DIL24 P1
 U 1 1 5AC4DFFF
-P 7800 3425
-F 0 "P1" H 7800 3525 50  0000 C CNN
-F 1 "DIL24" H 7800 3325 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 7800 3425 50  0001 C CNN
-F 3 "" H 7800 3425 50  0000 C CNN
-	1    7800 3425
+P 9575 3675
+F 0 "P1" H 9575 3775 50  0000 C CNN
+F 1 "DIL24" H 9575 3575 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 9575 3675 50  0001 C CNN
+F 3 "" H 9575 3675 50  0000 C CNN
+	1    9575 3675
 	1    0    0    -1  
 $EndComp
 $Comp
 L DIL24 P3
 U 1 1 5AC4E124
-P 11350 3400
-F 0 "P3" H 11350 3500 50  0000 C CNN
-F 1 "DIL24" H 11350 3300 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 11350 3400 50  0001 C CNN
-F 3 "" H 11350 3400 50  0000 C CNN
-	1    11350 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L DIL24 P5
-U 1 1 5AC4E227
-P 14775 3425
-F 0 "P5" H 14775 3525 50  0000 C CNN
-F 1 "DIL24" H 14775 3325 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 14775 3425 50  0001 C CNN
-F 3 "" H 14775 3425 50  0000 C CNN
-	1    14775 3425
-	1    0    0    -1  
-$EndComp
-$Comp
-L DIL24 P2
-U 1 1 5AC50AEA
-P 11300 11400
-F 0 "P2" H 11300 11500 50  0000 C CNN
-F 1 "DIL24" H 11300 11300 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 11300 11400 50  0001 C CNN
-F 3 "" H 11300 11400 50  0000 C CNN
-	1    11300 11400
-	1    0    0    -1  
-$EndComp
-$Comp
-L DIL24 P4
-U 1 1 5AC50CCC
-P 14550 11400
-F 0 "P4" H 14550 11500 50  0000 C CNN
-F 1 "DIL24" H 14550 11300 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 14550 11400 50  0001 C CNN
-F 3 "" H 14550 11400 50  0000 C CNN
-	1    14550 11400
+P 13725 3700
+F 0 "P3" H 13725 3800 50  0000 C CNN
+F 1 "DIL24" H 13725 3600 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 13725 3700 50  0001 C CNN
+F 3 "" H 13725 3700 50  0000 C CNN
+	1    13725 3700
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	18025 9900 18025 9750
+	18225 9800 18225 9650
 Wire Wire Line
-	3625 9900 18025 9900
+	3825 9800 18225 9800
 Wire Wire Line
-	16850 9900 16850 9750
+	17050 9800 17050 9650
 Wire Wire Line
-	15725 9900 15725 9750
-Connection ~ 16850 9900
+	15925 9800 15925 9650
+Connection ~ 17050 9800
 Wire Wire Line
-	14625 9900 14625 9750
-Connection ~ 15725 9900
+	14825 9800 14825 9650
+Connection ~ 15925 9800
 Wire Wire Line
-	13000 9900 13000 9750
-Connection ~ 14625 9900
+	13200 9800 13200 9650
+Connection ~ 14825 9800
 Wire Wire Line
-	11825 9900 11825 9750
-Connection ~ 13000 9900
+	12025 9800 12025 9650
+Connection ~ 13200 9800
 Wire Wire Line
-	10700 9900 10700 9750
-Connection ~ 11825 9900
+	10900 9800 10900 9650
+Connection ~ 12025 9800
 Wire Wire Line
-	9600 9900 9600 9750
-Connection ~ 10700 9900
+	9800 9800 9800 9650
+Connection ~ 10900 9800
 Wire Wire Line
-	8000 9900 8000 9750
-Connection ~ 9600 9900
+	8200 9800 8200 9650
+Connection ~ 9800 9800
 Wire Wire Line
-	6825 9900 6825 9750
-Connection ~ 8000 9900
+	7025 9800 7025 9650
+Connection ~ 8200 9800
 Wire Wire Line
-	5700 9900 5700 9750
-Connection ~ 6825 9900
+	5900 9800 5900 9650
+Connection ~ 7025 9800
 Wire Wire Line
-	4600 9900 4600 9750
-Connection ~ 5700 9900
-Connection ~ 4600 9900
-Text Label 3625 9900 0    60   ~ 0
+	4800 9800 4800 9650
+Connection ~ 5900 9800
+Connection ~ 4800 9800
+Text Label 3825 9800 0    60   ~ 0
 GND
-Text Label 7450 2875 2    60   ~ 0
-IN_A_0
-Text Label 7450 2975 2    60   ~ 0
-IN_A_1
-Text Label 7450 3075 2    60   ~ 0
-IN_A_2
-Text Label 7450 3175 2    60   ~ 0
-IN_A_3
-Text Label 7450 3275 2    60   ~ 0
-IN_A_4
-Text Label 7450 3375 2    60   ~ 0
-IN_A_5
-Text Label 7450 3475 2    60   ~ 0
-IN_A_6
-Text Label 7450 3575 2    60   ~ 0
-IN_A_7
-Text Label 7450 3675 2    60   ~ 0
-IN_A_8
-Text Label 7450 3775 2    60   ~ 0
-IN_A_9
-Text Label 7450 3875 2    60   ~ 0
-IN_A_10
-Text Label 7450 3975 2    60   ~ 0
-IN_A_11
-Text Label 8150 3975 0    60   ~ 0
-IN_B_0
-Text Label 8150 3875 0    60   ~ 0
-IN_B_1
-Text Label 8150 3775 0    60   ~ 0
-IN_B_2
-Text Label 8150 3675 0    60   ~ 0
-IN_B_3
-Text Label 8150 3575 0    60   ~ 0
-IN_B_4
-Text Label 8150 3475 0    60   ~ 0
-IN_B_5
-Text Label 8150 3375 0    60   ~ 0
-IN_B_6
-Text Label 8150 3275 0    60   ~ 0
-IN_B_7
-Text Label 8150 3175 0    60   ~ 0
-IN_B_8
-Text Label 8150 3075 0    60   ~ 0
-IN_B_9
-Text Label 8150 2975 0    60   ~ 0
-IN_B_10
-Text Label 8150 2875 0    60   ~ 0
-IN_B_11
-Text Label 11000 2850 2    60   ~ 0
-IN_C_0
-Text Label 11000 2950 2    60   ~ 0
-IN_C_1
-Text Label 11000 3050 2    60   ~ 0
-IN_C_2
-Text Label 11000 3150 2    60   ~ 0
-IN_C_3
-Text Label 11000 3250 2    60   ~ 0
-IN_C_4
-Text Label 11000 3350 2    60   ~ 0
-IN_C_5
-Text Label 11000 3450 2    60   ~ 0
-IN_C_6
-Text Label 11000 3550 2    60   ~ 0
-IN_C_7
-Text Label 11000 3650 2    60   ~ 0
-IN_C_8
-Text Label 11000 3750 2    60   ~ 0
-IN_C_9
-Text Label 11000 3850 2    60   ~ 0
-IN_C_10
-Text Label 11000 3950 2    60   ~ 0
-IN_C_11
-Text Label 11700 3950 0    60   ~ 0
-IN_D_0
-Text Label 11700 3850 0    60   ~ 0
-IN_D_1
-Text Label 11700 3750 0    60   ~ 0
-IN_D_2
-Text Label 11700 3650 0    60   ~ 0
-IN_D_3
-Text Label 11700 3550 0    60   ~ 0
-IN_D_4
-Text Label 11700 3450 0    60   ~ 0
-IN_D_5
-Text Label 11700 3350 0    60   ~ 0
-IN_D_6
-Text Label 11700 3250 0    60   ~ 0
-IN_D_7
-Text Label 11700 3150 0    60   ~ 0
-IN_D_8
-Text Label 11700 3050 0    60   ~ 0
-IN_D_9
-Text Label 11700 2950 0    60   ~ 0
-IN_D_10
-Text Label 11700 2850 0    60   ~ 0
-IN_D_11
-Text Label 14425 2875 2    60   ~ 0
+Text Label 9225 3125 2    60   ~ 0
+IN_MA_0
+Text Label 9225 3225 2    60   ~ 0
+IN_MA_1
+Text Label 9225 3325 2    60   ~ 0
+IN_MA_2
+Text Label 9225 3425 2    60   ~ 0
+IN_MA_3
+Text Label 9225 3525 2    60   ~ 0
+IN_MA_4
+Text Label 9225 3625 2    60   ~ 0
+IN_MA_5
+Text Label 9225 3725 2    60   ~ 0
+IN_MA_6
+Text Label 9225 3825 2    60   ~ 0
+IN_MA_7
+Text Label 9225 3925 2    60   ~ 0
+IN_MA_8
+Text Label 9225 4025 2    60   ~ 0
+IN_MA_9
+Text Label 9225 4125 2    60   ~ 0
+IN_MA_10
+Text Label 9225 4225 2    60   ~ 0
+IN_MA_11
+Text Label 9925 4225 0    60   ~ 0
+IN_MD_0
+Text Label 9925 4125 0    60   ~ 0
+IN_MD_1
+Text Label 9925 4025 0    60   ~ 0
+IN_MD_2
+Text Label 9925 3925 0    60   ~ 0
+IN_MD_3
+Text Label 9925 3825 0    60   ~ 0
+IN_MD_4
+Text Label 9925 3725 0    60   ~ 0
+IN_MD_5
+Text Label 9925 3625 0    60   ~ 0
+IN_MD_6
+Text Label 9925 3525 0    60   ~ 0
+IN_MD_7
+Text Label 9925 3425 0    60   ~ 0
+IN_MD_8
+Text Label 9925 3325 0    60   ~ 0
+IN_MD_9
+Text Label 9925 3225 0    60   ~ 0
+IN_MD_10
+Text Label 9925 3125 0    60   ~ 0
+IN_MD_11
+Text Label 13375 3150 2    60   ~ 0
+IN_PC_0
+Text Label 13375 3250 2    60   ~ 0
+IN_PC_1
+Text Label 13375 3350 2    60   ~ 0
+IN_PC_2
+Text Label 13375 3450 2    60   ~ 0
+IN_PC_3
+Text Label 13375 3550 2    60   ~ 0
+IN_PC_4
+Text Label 13375 3650 2    60   ~ 0
+IN_PC_5
+Text Label 13375 3750 2    60   ~ 0
+IN_PC_6
+Text Label 13375 3850 2    60   ~ 0
+IN_PC_7
+Text Label 13375 3950 2    60   ~ 0
+IN_PC_8
+Text Label 13375 4050 2    60   ~ 0
+IN_PC_9
+Text Label 13375 4150 2    60   ~ 0
+IN_PC_10
+Text Label 13375 4250 2    60   ~ 0
+IN_PC_11
+Text Label 17325 3050 2    60   ~ 0
 IN_E_0
-Text Label 14425 2975 2    60   ~ 0
+Text Label 17325 3150 2    60   ~ 0
 IN_E_1
-Text Label 14425 3075 2    60   ~ 0
+Text Label 17325 3250 2    60   ~ 0
 IN_E_2
-Text Label 14425 3175 2    60   ~ 0
+Text Label 18025 3250 0    60   ~ 0
 IN_E_3
-Text Label 14425 3275 2    60   ~ 0
+Text Label 18025 3150 0    60   ~ 0
 IN_E_4
-Text Label 14425 3375 2    60   ~ 0
+Text Label 18025 3050 0    60   ~ 0
 IN_E_5
-Text Label 14425 3475 2    60   ~ 0
+Text Label 17325 3350 2    60   ~ 0
 IN_E_6
-Text Label 14425 3575 2    60   ~ 0
+Text Label 17325 3450 2    60   ~ 0
 IN_E_7
-Text Label 14425 3675 2    60   ~ 0
+Text Label 17325 3550 2    60   ~ 0
 IN_E_8
-Text Label 14425 3775 2    60   ~ 0
+Text Label 18025 3550 0    60   ~ 0
 IN_E_9
-Text Label 14425 3875 2    60   ~ 0
+Text Label 18025 3450 0    60   ~ 0
 IN_E_10
-Text Label 14425 3975 2    60   ~ 0
+Text Label 18025 3350 0    60   ~ 0
 IN_E_11
-Text Label 15125 3975 0    60   ~ 0
+Text Label 17325 3850 2    60   ~ 0
 IN_F_0
-Text Label 15125 3875 0    60   ~ 0
+Text Label 17325 3950 2    60   ~ 0
 IN_F_1
-Text Label 15125 3775 0    60   ~ 0
+Text Label 17325 4050 2    60   ~ 0
 IN_F_2
-Text Label 15125 3675 0    60   ~ 0
+Text Label 18025 4050 0    60   ~ 0
 IN_F_3
-Text Label 15125 3575 0    60   ~ 0
+Text Label 18025 3950 0    60   ~ 0
 IN_F_4
-Text Label 15125 3475 0    60   ~ 0
+Text Label 18025 3850 0    60   ~ 0
 IN_F_5
-Text Label 15125 3375 0    60   ~ 0
+Text Label 17325 4150 2    60   ~ 0
 IN_F_6
-Text Label 15125 3275 0    60   ~ 0
+Text Label 17325 4250 2    60   ~ 0
 IN_F_7
-Text Label 15125 3175 0    60   ~ 0
+Text Label 17325 4350 2    60   ~ 0
 IN_F_8
-Text Label 15125 3075 0    60   ~ 0
+Text Label 18025 4350 0    60   ~ 0
 IN_F_9
-Text Label 15125 2975 0    60   ~ 0
+Text Label 18025 4250 0    60   ~ 0
 IN_F_10
-Text Label 15125 2875 0    60   ~ 0
+Text Label 18025 4150 0    60   ~ 0
 IN_F_11
 Wire Wire Line
 	2550 6400 2550 5650
@@ -1106,265 +1038,447 @@ Wire Wire Line
 	19675 6400 19675 5650
 Wire Wire Line
 	21375 6400 21375 5650
-Text Label 3050 5650 1    60   ~ 0
-IN_A_0
-Text Label 2950 5650 1    60   ~ 0
-IN_B_0
-Text Label 2850 5650 1    60   ~ 0
-IN_C_0
 Text Label 2750 5650 1    60   ~ 0
-IN_D_0
+IN_SR_0
 Text Label 2650 5650 1    60   ~ 0
 IN_E_0
 Text Label 2550 5650 1    60   ~ 0
 IN_F_0
-Text Label 4750 5650 1    60   ~ 0
-IN_A_1
-Text Label 4650 5650 1    60   ~ 0
-IN_B_1
-Text Label 4550 5650 1    60   ~ 0
-IN_C_1
 Text Label 4450 5650 1    60   ~ 0
-IN_D_1
+IN_SR_1
 Text Label 4350 5650 1    60   ~ 0
 IN_E_1
 Text Label 4250 5650 1    60   ~ 0
 IN_F_1
-Text Label 6475 5650 1    60   ~ 0
-IN_A_2
-Text Label 6375 5650 1    60   ~ 0
-IN_B_2
-Text Label 6275 5650 1    60   ~ 0
-IN_C_2
 Text Label 6175 5650 1    60   ~ 0
-IN_D_2
+IN_SR_2
 Text Label 6075 5650 1    60   ~ 0
 IN_E_2
 Text Label 5975 5650 1    60   ~ 0
 IN_F_2
-Text Label 8175 5650 1    60   ~ 0
-IN_A_3
-Text Label 8075 5650 1    60   ~ 0
-IN_B_3
-Text Label 7975 5650 1    60   ~ 0
-IN_C_3
 Text Label 7875 5650 1    60   ~ 0
-IN_D_3
+IN_SR_3
 Text Label 7775 5650 1    60   ~ 0
 IN_E_3
 Text Label 7675 5650 1    60   ~ 0
 IN_F_3
-Text Label 9900 5650 1    60   ~ 0
-IN_A_4
-Text Label 9800 5650 1    60   ~ 0
-IN_B_4
-Text Label 9700 5650 1    60   ~ 0
-IN_C_4
 Text Label 9600 5650 1    60   ~ 0
-IN_D_4
+IN_SR_4
 Text Label 9500 5650 1    60   ~ 0
 IN_E_4
 Text Label 9400 5650 1    60   ~ 0
 IN_F_4
-Text Label 11600 5650 1    60   ~ 0
-IN_A_5
-Text Label 11500 5650 1    60   ~ 0
-IN_B_5
-Text Label 11400 5650 1    60   ~ 0
-IN_C_5
 Text Label 11300 5650 1    60   ~ 0
-IN_D_5
+IN_SR_5
 Text Label 11200 5650 1    60   ~ 0
 IN_E_5
 Text Label 11100 5650 1    60   ~ 0
 IN_F_5
-Text Label 13325 5650 1    60   ~ 0
-IN_A_6
-Text Label 13225 5650 1    60   ~ 0
-IN_B_6
-Text Label 13125 5650 1    60   ~ 0
-IN_C_6
 Text Label 13025 5650 1    60   ~ 0
-IN_D_6
+IN_SR_6
 Text Label 12925 5650 1    60   ~ 0
 IN_E_6
 Text Label 12825 5650 1    60   ~ 0
 IN_F_6
-Text Label 15025 5650 1    60   ~ 0
-IN_A_7
-Text Label 14925 5650 1    60   ~ 0
-IN_B_7
-Text Label 14825 5650 1    60   ~ 0
-IN_C_7
 Text Label 14725 5650 1    60   ~ 0
-IN_D_7
+IN_SR_7
 Text Label 14625 5650 1    60   ~ 0
 IN_E_7
 Text Label 14525 5650 1    60   ~ 0
 IN_F_7
-Text Label 16750 5650 1    60   ~ 0
-IN_A_8
-Text Label 16650 5650 1    60   ~ 0
-IN_B_8
-Text Label 16550 5650 1    60   ~ 0
-IN_C_8
 Text Label 16450 5650 1    60   ~ 0
-IN_D_8
+IN_SR_8
 Text Label 16350 5650 1    60   ~ 0
 IN_E_8
 Text Label 16250 5650 1    60   ~ 0
 IN_F_8
-Text Label 18450 5650 1    60   ~ 0
-IN_A_9
-Text Label 18350 5650 1    60   ~ 0
-IN_B_9
-Text Label 18250 5650 1    60   ~ 0
-IN_C_9
 Text Label 18150 5650 1    60   ~ 0
-IN_D_9
+IN_SR_9
 Text Label 18050 5650 1    60   ~ 0
 IN_E_9
 Text Label 17950 5650 1    60   ~ 0
 IN_F_9
-Text Label 20175 5650 1    60   ~ 0
-IN_A_10
-Text Label 20075 5650 1    60   ~ 0
-IN_B_10
-Text Label 19975 5650 1    60   ~ 0
-IN_C_10
 Text Label 19875 5650 1    60   ~ 0
-IN_D_10
+IN_SR_10
 Text Label 19775 5650 1    60   ~ 0
 IN_E_10
 Text Label 19675 5650 1    60   ~ 0
 IN_F_10
-Text Label 21875 5650 1    60   ~ 0
-IN_A_11
-Text Label 21775 5650 1    60   ~ 0
-IN_B_11
-Text Label 21675 5650 1    60   ~ 0
-IN_C_11
 Text Label 21575 5650 1    60   ~ 0
-IN_D_11
+IN_SR_11
 Text Label 21475 5650 1    60   ~ 0
 IN_E_11
 Text Label 21375 5650 1    60   ~ 0
 IN_F_11
-Text Label 10950 10850 2    60   ~ 0
+Text Label 9925 10775 2    60   ~ 0
 OUT_0
-Text Label 10950 10950 2    60   ~ 0
+Text Label 9925 10875 2    60   ~ 0
 OUT_1
-Text Label 10950 11050 2    60   ~ 0
+Text Label 9925 10975 2    60   ~ 0
 OUT_2
-Text Label 10950 11150 2    60   ~ 0
+Text Label 9925 11075 2    60   ~ 0
 OUT_3
-Text Label 4150 9450 1    60   ~ 0
+Text Label 4350 9350 1    60   ~ 0
 OUT_0
-Text Label 5250 9450 1    60   ~ 0
+Text Label 5450 9350 1    60   ~ 0
 OUT_1
-Text Label 6375 9450 1    60   ~ 0
+Text Label 6575 9350 1    60   ~ 0
 OUT_2
-Text Label 7550 9450 1    60   ~ 0
+Text Label 7750 9350 1    60   ~ 0
 OUT_3
-Text Label 9150 9450 1    60   ~ 0
+Text Label 9350 9350 1    60   ~ 0
 OUT_4
-Text Label 10250 9450 1    60   ~ 0
+Text Label 10450 9350 1    60   ~ 0
 OUT_5
-Text Label 11375 9450 1    60   ~ 0
+Text Label 11575 9350 1    60   ~ 0
 OUT_6
-Text Label 12550 9450 1    60   ~ 0
+Text Label 12750 9350 1    60   ~ 0
 OUT_7
-Text Label 14175 9450 1    60   ~ 0
+Text Label 14375 9350 1    60   ~ 0
 OUT_8
-Text Label 15275 9450 1    60   ~ 0
+Text Label 15475 9350 1    60   ~ 0
 OUT_9
-Text Label 16400 9450 1    60   ~ 0
+Text Label 16600 9350 1    60   ~ 0
 OUT_10
-Text Label 17575 9450 1    60   ~ 0
+Text Label 17775 9350 1    60   ~ 0
 OUT_11
-Text Label 10950 11250 2    60   ~ 0
+Text Label 9925 11275 2    60   ~ 0
 OUT_4
-Text Label 10950 11350 2    60   ~ 0
+Text Label 9925 11175 2    60   ~ 0
 OUT_5
-Text Label 10950 11450 2    60   ~ 0
+Text Label 9925 11375 2    60   ~ 0
 OUT_6
-Text Label 10950 11550 2    60   ~ 0
+Text Label 9925 11475 2    60   ~ 0
 OUT_7
-Text Label 10950 11650 2    60   ~ 0
+Text Label 9925 11575 2    60   ~ 0
 OUT_8
-Text Label 10950 11750 2    60   ~ 0
+Text Label 9925 11675 2    60   ~ 0
 OUT_9
-Text Label 10950 11850 2    60   ~ 0
+Text Label 9925 11775 2    60   ~ 0
 OUT_10
-Text Label 10950 11950 2    60   ~ 0
+Text Label 9925 11875 2    60   ~ 0
 OUT_11
-Text Label 5050 9450 1    60   ~ 0
+Text Label 5250 9350 1    60   ~ 0
 OUT_BUF_0
-Text Label 6150 9450 1    60   ~ 0
+Text Label 6350 9350 1    60   ~ 0
 OUT_BUF_1
-Text Label 7275 9450 1    60   ~ 0
+Text Label 7475 9350 1    60   ~ 0
 OUT_BUF_2
-Text Label 8450 9450 1    60   ~ 0
+Text Label 8650 9350 1    60   ~ 0
 OUT_BUF_3
-Text Label 10050 9450 1    60   ~ 0
+Text Label 10250 9350 1    60   ~ 0
 OUT_BUF_4
-Text Label 11150 9450 1    60   ~ 0
+Text Label 11350 9350 1    60   ~ 0
 OUT_BUF_5
-Text Label 12275 9450 1    60   ~ 0
+Text Label 12475 9350 1    60   ~ 0
 OUT_BUF_6
-Text Label 13450 9450 1    60   ~ 0
+Text Label 13650 9350 1    60   ~ 0
 OUT_BUF_7
-Text Label 15075 9450 1    60   ~ 0
+Text Label 15275 9350 1    60   ~ 0
 OUT_BUF_8
-Text Label 16175 9450 1    60   ~ 0
+Text Label 16375 9350 1    60   ~ 0
 OUT_BUF_9
-Text Label 17300 9450 1    60   ~ 0
+Text Label 17500 9350 1    60   ~ 0
 OUT_BUF_10
-Text Label 18475 9450 1    60   ~ 0
+Text Label 18675 9350 1    60   ~ 0
 OUT_BUF_11
-Text Label 14200 10850 2    60   ~ 0
+Text Label 16050 11125 2    60   ~ 0
 OUT_BUF_0
-Text Label 14200 10950 2    60   ~ 0
+Text Label 16050 11225 2    60   ~ 0
 OUT_BUF_1
-Text Label 14200 11050 2    60   ~ 0
+Text Label 16050 11325 2    60   ~ 0
 OUT_BUF_2
-Text Label 14200 11150 2    60   ~ 0
+Text Label 16750 11325 0    60   ~ 0
 OUT_BUF_3
-Text Label 14200 11250 2    60   ~ 0
+Text Label 16750 11225 0    60   ~ 0
 OUT_BUF_4
-Text Label 14200 11350 2    60   ~ 0
+Text Label 16750 11125 0    60   ~ 0
 OUT_BUF_5
-Text Label 14200 11450 2    60   ~ 0
+Text Label 16050 11425 2    60   ~ 0
 OUT_BUF_6
-Text Label 14200 11550 2    60   ~ 0
+Text Label 16050 11525 2    60   ~ 0
 OUT_BUF_7
-Text Label 14200 11650 2    60   ~ 0
+Text Label 16050 11625 2    60   ~ 0
 OUT_BUF_8
-Text Label 14200 11750 2    60   ~ 0
+Text Label 16750 11625 0    60   ~ 0
 OUT_BUF_9
-Text Label 14200 11850 2    60   ~ 0
+Text Label 16750 11525 0    60   ~ 0
 OUT_BUF_10
-Text Label 14200 11950 2    60   ~ 0
+Text Label 16750 11425 0    60   ~ 0
 OUT_BUF_11
 $Comp
 L DIL24 P6
 U 1 1 5AC9DD04
-P 7925 11400
-F 0 "P6" H 7925 11500 50  0000 C CNN
-F 1 "DIL24" H 7925 11300 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 7925 11400 50  0001 C CNN
-F 3 "" H 7925 11400 50  0000 C CNN
-	1    7925 11400
+P 6725 11375
+F 0 "P6" H 6725 11475 50  0000 C CNN
+F 1 "DIL24" H 6725 11275 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 6725 11375 50  0001 C CNN
+F 3 "" H 6725 11375 50  0000 C CNN
+	1    6725 11375
 	1    0    0    -1  
 $EndComp
-Text Label 7575 10850 2    60   ~ 0
+Text Label 6375 10825 2    60   ~ 0
 VCC
-Text Label 7575 10950 2    60   ~ 0
+Text Label 6375 10925 2    60   ~ 0
 GND
-Text Label 8275 11650 0    60   ~ 0
+Text Label 7075 11625 0    60   ~ 0
 S0
-Text Label 8275 11550 0    60   ~ 0
+Text Label 7075 11525 0    60   ~ 0
 S1
-Text Label 8275 11450 0    60   ~ 0
+Text Label 7075 11425 0    60   ~ 0
 S2
+$Comp
+L DIL6 P9
+U 1 1 5ACD3D6E
+P 16400 11225
+F 0 "P9" H 16400 11425 50  0000 C CNN
+F 1 "DIL6" V 16400 11225 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 16400 11225 50  0001 C CNN
+F 3 "" H 16400 11225 50  0000 C CNN
+	1    16400 11225
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL6 P10
+U 1 1 5ACD3E63
+P 16400 11525
+F 0 "P10" H 16400 11725 50  0000 C CNN
+F 1 "DIL6" V 16400 11525 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 16400 11525 50  0001 C CNN
+F 3 "" H 16400 11525 50  0000 C CNN
+	1    16400 11525
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL6 P2
+U 1 1 5ACD4491
+P 6250 3425
+F 0 "P2" H 6250 3625 50  0000 C CNN
+F 1 "DIL6" V 6250 3425 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 6250 3425 50  0001 C CNN
+F 3 "" H 6250 3425 50  0000 C CNN
+	1    6250 3425
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL6 P4
+U 1 1 5ACD52D0
+P 6250 3725
+F 0 "P4" H 6250 3925 50  0000 C CNN
+F 1 "DIL6" V 6250 3725 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 6250 3725 50  0001 C CNN
+F 3 "" H 6250 3725 50  0000 C CNN
+	1    6250 3725
+	1    0    0    -1  
+$EndComp
+Text Label 5900 3325 2    60   ~ 0
+IN_SR_0
+Text Label 5900 3425 2    60   ~ 0
+IN_SR_1
+Text Label 5900 3525 2    60   ~ 0
+IN_SR_2
+Text Label 6600 3325 0    60   ~ 0
+IN_SR_3
+Text Label 6600 3425 0    60   ~ 0
+IN_SR_4
+Text Label 6600 3525 0    60   ~ 0
+IN_SR_5
+Text Label 6600 3625 0    60   ~ 0
+IN_SR_11
+Text Label 6600 3725 0    60   ~ 0
+IN_SR_10
+Text Label 6600 3825 0    60   ~ 0
+IN_SR_9
+Text Label 5900 3625 2    60   ~ 0
+IN_SR_6
+Text Label 5900 3725 2    60   ~ 0
+IN_SR_7
+Text Label 5900 3825 2    60   ~ 0
+IN_SR_8
+NoConn ~ 19575 6400
+NoConn ~ 17850 6400
+NoConn ~ 16150 6400
+NoConn ~ 14425 6400
+NoConn ~ 12725 6400
+NoConn ~ 11000 6400
+NoConn ~ 9300 6400
+NoConn ~ 7575 6400
+NoConn ~ 5875 6400
+NoConn ~ 4150 6400
+NoConn ~ 2450 6400
+$Comp
+L DIL6 P5
+U 1 1 5ACE19BE
+P 17675 3150
+F 0 "P5" H 17675 3350 50  0000 C CNN
+F 1 "DIL6" V 17675 3150 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 17675 3150 50  0001 C CNN
+F 3 "" H 17675 3150 50  0000 C CNN
+	1    17675 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL6 P11
+U 1 1 5ACE1A8B
+P 17675 3450
+F 0 "P11" H 17675 3650 50  0000 C CNN
+F 1 "DIL6" V 17675 3450 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 17675 3450 50  0001 C CNN
+F 3 "" H 17675 3450 50  0000 C CNN
+	1    17675 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL6 P12
+U 1 1 5ACE1B6C
+P 17675 3950
+F 0 "P12" H 17675 4150 50  0000 C CNN
+F 1 "DIL6" V 17675 3950 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 17675 3950 50  0001 C CNN
+F 3 "" H 17675 3950 50  0000 C CNN
+	1    17675 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL6 P13
+U 1 1 5ACE1C3B
+P 17675 4250
+F 0 "P13" H 17675 4450 50  0000 C CNN
+F 1 "DIL6" V 17675 4250 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 17675 4250 50  0001 C CNN
+F 3 "" H 17675 4250 50  0000 C CNN
+	1    17675 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL24 P7
+U 1 1 5AC91C4F
+P 10275 11325
+F 0 "P7" H 10275 11425 50  0000 C CNN
+F 1 "DIL24" H 10275 11225 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 10275 11325 50  0001 C CNN
+F 3 "" H 10275 11325 50  0000 C CNN
+	1    10275 11325
+	1    0    0    -1  
+$EndComp
+Text Label 10625 11875 0    60   ~ 0
+IN_AC_0
+Text Label 10625 11775 0    60   ~ 0
+IN_AC_1
+Text Label 10625 11675 0    60   ~ 0
+IN_AC_2
+Text Label 10625 11575 0    60   ~ 0
+IN_AC_3
+Text Label 10625 11475 0    60   ~ 0
+IN_AC_4
+Text Label 10625 11375 0    60   ~ 0
+IN_AC_5
+Text Label 10625 11275 0    60   ~ 0
+IN_AC_6
+Text Label 10625 11175 0    60   ~ 0
+IN_AC_7
+Text Label 10625 11075 0    60   ~ 0
+IN_AC_8
+Text Label 10625 10975 0    60   ~ 0
+IN_AC_9
+Text Label 10625 10875 0    60   ~ 0
+IN_AC_10
+Text Label 10625 10775 0    60   ~ 0
+IN_AC_11
+Text Label 14075 4250 0    60   ~ 0
+IN_AC_0
+Text Label 14075 4150 0    60   ~ 0
+IN_AC_1
+Text Label 14075 4050 0    60   ~ 0
+IN_AC_2
+Text Label 14075 3950 0    60   ~ 0
+IN_AC_3
+Text Label 14075 3850 0    60   ~ 0
+IN_AC_4
+Text Label 14075 3750 0    60   ~ 0
+IN_AC_5
+Text Label 14075 3650 0    60   ~ 0
+IN_AC_6
+Text Label 14075 3550 0    60   ~ 0
+IN_AC_7
+Text Label 14075 3450 0    60   ~ 0
+IN_AC_8
+Text Label 14075 3350 0    60   ~ 0
+IN_AC_9
+Text Label 14075 3250 0    60   ~ 0
+IN_AC_10
+Text Label 14075 3150 0    60   ~ 0
+IN_AC_11
+Text Label 4750 5650 1    60   ~ 0
+IN_MA_1
+Text Label 6475 5650 1    60   ~ 0
+IN_MA_2
+Text Label 8175 5650 1    60   ~ 0
+IN_MA_3
+Text Label 9900 5650 1    60   ~ 0
+IN_MA_4
+Text Label 11600 5650 1    60   ~ 0
+IN_MA_5
+Text Label 13325 5650 1    60   ~ 0
+IN_MA_6
+Text Label 15025 5650 1    60   ~ 0
+IN_MA_7
+Text Label 16750 5650 1    60   ~ 0
+IN_MA_8
+Text Label 18450 5650 1    60   ~ 0
+IN_MA_9
+Text Label 20175 5650 1    60   ~ 0
+IN_MA_10
+Text Label 21875 5650 1    60   ~ 0
+IN_MA_11
+Text Label 3050 5650 1    60   ~ 0
+IN_MA_0
+Text Label 2950 5650 1    60   ~ 0
+IN_MD_0
+Text Label 4650 5650 1    60   ~ 0
+IN_MD_1
+Text Label 6375 5650 1    60   ~ 0
+IN_MD_2
+Text Label 8075 5650 1    60   ~ 0
+IN_MD_3
+Text Label 9800 5650 1    60   ~ 0
+IN_MD_4
+Text Label 11500 5650 1    60   ~ 0
+IN_MD_5
+Text Label 13225 5650 1    60   ~ 0
+IN_MD_6
+Text Label 14925 5650 1    60   ~ 0
+IN_MD_7
+Text Label 16650 5650 1    60   ~ 0
+IN_MD_8
+Text Label 18350 5650 1    60   ~ 0
+IN_MD_9
+Text Label 20075 5650 1    60   ~ 0
+IN_MD_10
+Text Label 21775 5650 1    60   ~ 0
+IN_MD_11
+Text Label 2850 5650 1    60   ~ 0
+IN_PC_0
+Text Label 4550 5650 1    60   ~ 0
+IN_PC_1
+Text Label 6275 5650 1    60   ~ 0
+IN_PC_2
+Text Label 7975 5650 1    60   ~ 0
+IN_PC_3
+Text Label 9700 5650 1    60   ~ 0
+IN_PC_4
+Text Label 11400 5650 1    60   ~ 0
+IN_PC_5
+Text Label 13125 5650 1    60   ~ 0
+IN_PC_6
+Text Label 14825 5650 1    60   ~ 0
+IN_PC_7
+Text Label 16550 5650 1    60   ~ 0
+IN_PC_8
+Text Label 18250 5650 1    60   ~ 0
+IN_PC_9
+Text Label 19975 5650 1    60   ~ 0
+IN_PC_10
+Text Label 21675 5650 1    60   ~ 0
+IN_PC_11
 $EndSCHEMATC
