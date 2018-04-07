@@ -1120,7 +1120,7 @@ GND
 Text Label 12325 9825 0    60   ~ 0
 GND
 Text Label 12425 7475 1    60   ~ 0
-IN_AC_0
+OUT_AC_0
 Wire Wire Line
 	12875 7775 12875 7900
 Wire Wire Line
@@ -1200,27 +1200,27 @@ Connection ~ 11550 11475
 Connection ~ 11950 11475
 Connection ~ 11750 11475
 Text Label 13625 7475 1    60   ~ 0
-IN_AC_1
+OUT_AC_1
 Text Label 14800 7475 1    60   ~ 0
-IN_AC_2
+OUT_AC_2
 Text Label 15950 7475 1    60   ~ 0
-IN_AC_3
+OUT_AC_3
 Text Label 12450 8525 1    60   ~ 0
-IN_AC_4
+OUT_AC_4
 Text Label 13650 8525 1    60   ~ 0
-IN_AC_5
+OUT_AC_5
 Text Label 15975 9425 1    60   ~ 0
-IN_AC_11
+OUT_AC_11
 Text Label 14825 9425 1    60   ~ 0
-IN_AC_10
+OUT_AC_10
 Text Label 13650 9425 1    60   ~ 0
-IN_AC_9
+OUT_AC_9
 Text Label 12450 9425 1    60   ~ 0
-IN_AC_8
+OUT_AC_8
 Text Label 15975 8525 1    60   ~ 0
-IN_AC_7
+OUT_AC_7
 Text Label 14825 8525 1    60   ~ 0
-IN_AC_6
+OUT_AC_6
 Text Label 18725 4800 2    60   ~ 0
 OUT_BUF_PC_1
 Text Label 18725 4900 2    60   ~ 0

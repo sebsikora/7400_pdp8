@@ -474,17 +474,6 @@ Text Label 2450 3500 2    60   ~ 0
 GND
 Text Label 2450 3600 2    60   ~ 0
 CLK
-$Comp
-L DIL24 P5
-U 1 1 5AC9104A
-P 19075 5250
-F 0 "P5" H 19075 5350 50  0000 C CNN
-F 1 "DIL24" H 19075 5150 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 19075 5250 50  0001 C CNN
-F 3 "" H 19075 5250 50  0000 C CNN
-	1    19075 5250
-	1    0    0    -1  
-$EndComp
 Text Label 2450 3700 2    60   ~ 0
 LOAD_HI_MA
 Text Label 2450 3800 2    60   ~ 0
@@ -1221,29 +1210,29 @@ Text Label 15975 8525 1    60   ~ 0
 OUT_AC_7
 Text Label 14825 8525 1    60   ~ 0
 OUT_AC_6
-Text Label 18725 4800 2    60   ~ 0
-OUT_BUF_PC_1
 Text Label 18725 4900 2    60   ~ 0
-OUT_BUF_PC_2
+OUT_BUF_PC_1
 Text Label 18725 5000 2    60   ~ 0
-OUT_BUF_PC_3
+OUT_BUF_PC_2
 Text Label 18725 5100 2    60   ~ 0
-OUT_BUF_PC_4
+OUT_BUF_PC_3
 Text Label 18725 5200 2    60   ~ 0
-OUT_BUF_PC_5
+OUT_BUF_PC_4
 Text Label 18725 5300 2    60   ~ 0
+OUT_BUF_PC_5
+Text Label 19425 5300 0    60   ~ 0
 OUT_BUF_PC_6
-Text Label 18725 5400 2    60   ~ 0
+Text Label 19425 5200 0    60   ~ 0
 OUT_BUF_PC_7
-Text Label 18725 5500 2    60   ~ 0
+Text Label 19425 5100 0    60   ~ 0
 OUT_BUF_PC_8
-Text Label 18725 5600 2    60   ~ 0
+Text Label 19425 5000 0    60   ~ 0
 OUT_BUF_PC_9
-Text Label 18725 5700 2    60   ~ 0
+Text Label 19425 4900 0    60   ~ 0
 OUT_BUF_PC_10
-Text Label 18725 5800 2    60   ~ 0
+Text Label 19425 4800 0    60   ~ 0
 OUT_BUF_PC_11
-Text Label 18725 4700 2    60   ~ 0
+Text Label 18725 4800 2    60   ~ 0
 OUT_BUF_PC_0
 Text Label 18725 3200 2    60   ~ 0
 OUT_PC_0
@@ -1267,7 +1256,7 @@ Text Label 18725 4100 2    60   ~ 0
 OUT_PC_9
 Text Label 18725 4200 2    60   ~ 0
 OUT_PC_10
-Text Label 18700 4300 2    60   ~ 0
+Text Label 18725 4300 2    60   ~ 0
 OUT_PC_11
 $Comp
 L 74LS163 U18
@@ -1655,28 +1644,72 @@ Text Label 19425 3300 0    60   ~ 0
 OUT_AC_10
 Text Label 19425 3200 0    60   ~ 0
 OUT_AC_11
-Text Label 19425 5800 0    60   ~ 0
+Text Label 18725 5675 2    60   ~ 0
 OUT_BUF_AC_0
-Text Label 19425 5700 0    60   ~ 0
+Text Label 18725 5775 2    60   ~ 0
 OUT_BUF_AC_1
-Text Label 19425 5600 0    60   ~ 0
+Text Label 18725 5875 2    60   ~ 0
 OUT_BUF_AC_2
-Text Label 19425 5500 0    60   ~ 0
+Text Label 18725 5975 2    60   ~ 0
 OUT_BUF_AC_3
-Text Label 19425 5400 0    60   ~ 0
+Text Label 18725 6075 2    60   ~ 0
 OUT_BUF_AC_4
-Text Label 19425 5300 0    60   ~ 0
+Text Label 18725 6175 2    60   ~ 0
 OUT_BUF_AC_5
-Text Label 19425 5200 0    60   ~ 0
+Text Label 19425 6175 0    60   ~ 0
 OUT_BUF_AC_6
-Text Label 19425 5100 0    60   ~ 0
+Text Label 19425 6075 0    60   ~ 0
 OUT_BUF_AC_7
-Text Label 19425 5000 0    60   ~ 0
+Text Label 19425 5975 0    60   ~ 0
 OUT_BUF_AC_8
-Text Label 19425 4900 0    60   ~ 0
+Text Label 19425 5875 0    60   ~ 0
 OUT_BUF_AC_9
-Text Label 19425 4800 0    60   ~ 0
+Text Label 19425 5775 0    60   ~ 0
 OUT_BUF_AC_10
-Text Label 19425 4700 0    60   ~ 0
+Text Label 19425 5675 0    60   ~ 0
 OUT_BUF_AC_11
+$Comp
+L DIL6 P5
+U 1 1 5AC94B8F
+P 19075 4900
+F 0 "P5" H 19075 5100 50  0000 C CNN
+F 1 "DIL6" V 19075 4900 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 19075 4900 50  0001 C CNN
+F 3 "" H 19075 4900 50  0000 C CNN
+	1    19075 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL6 P6
+U 1 1 5AC94E2C
+P 19075 5200
+F 0 "P6" H 19075 5400 50  0000 C CNN
+F 1 "DIL6" V 19075 5200 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 19075 5200 50  0001 C CNN
+F 3 "" H 19075 5200 50  0000 C CNN
+	1    19075 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL6 P7
+U 1 1 5AC94ED5
+P 19075 5775
+F 0 "P7" H 19075 5975 50  0000 C CNN
+F 1 "DIL6" V 19075 5775 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 19075 5775 50  0001 C CNN
+F 3 "" H 19075 5775 50  0000 C CNN
+	1    19075 5775
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL6 P8
+U 1 1 5AC94FD0
+P 19075 6075
+F 0 "P8" H 19075 6275 50  0000 C CNN
+F 1 "DIL6" V 19075 6075 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 19075 6075 50  0001 C CNN
+F 3 "" H 19075 6075 50  0000 C CNN
+	1    19075 6075
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

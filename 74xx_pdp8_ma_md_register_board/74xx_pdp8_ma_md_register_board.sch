@@ -765,61 +765,61 @@ IN_ALU_11
 $Comp
 L DIL24 P4
 U 1 1 5AC8A40E
-P 13075 2125
-F 0 "P4" H 13075 2225 50  0000 C CNN
-F 1 "DIL24" H 13075 2025 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 13075 2125 50  0001 C CNN
-F 3 "" H 13075 2125 50  0000 C CNN
-	1    13075 2125
+P 13875 2000
+F 0 "P4" H 13875 2100 50  0000 C CNN
+F 1 "DIL24" H 13875 1900 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 13875 2000 50  0001 C CNN
+F 3 "" H 13875 2000 50  0000 C CNN
+	1    13875 2000
 	1    0    0    -1  
 $EndComp
-Text Label 12725 1575 2    60   ~ 0
+Text Label 13525 1450 2    60   ~ 0
 OUT_MA_0
-Text Label 12725 1675 2    60   ~ 0
+Text Label 13525 1550 2    60   ~ 0
 OUT_MA_1
-Text Label 12725 1775 2    60   ~ 0
+Text Label 13525 1650 2    60   ~ 0
 OUT_MA_2
-Text Label 12725 1875 2    60   ~ 0
+Text Label 13525 1750 2    60   ~ 0
 OUT_MA_3
-Text Label 12725 1975 2    60   ~ 0
+Text Label 13525 1850 2    60   ~ 0
 OUT_MA_4
-Text Label 12725 2075 2    60   ~ 0
+Text Label 13525 1950 2    60   ~ 0
 OUT_MA_5
-Text Label 12725 2175 2    60   ~ 0
+Text Label 13525 2050 2    60   ~ 0
 OUT_MA_6
-Text Label 12725 2275 2    60   ~ 0
+Text Label 13525 2150 2    60   ~ 0
 OUT_MA_7
-Text Label 12725 2375 2    60   ~ 0
+Text Label 13525 2250 2    60   ~ 0
 OUT_MA_8
-Text Label 12725 2475 2    60   ~ 0
+Text Label 13525 2350 2    60   ~ 0
 OUT_MA_9
-Text Label 12725 2575 2    60   ~ 0
+Text Label 13525 2450 2    60   ~ 0
 OUT_MA_10
-Text Label 12725 2675 2    60   ~ 0
+Text Label 13525 2550 2    60   ~ 0
 OUT_MA_11
-Text Label 13425 2675 0    60   ~ 0
+Text Label 14225 2550 0    60   ~ 0
 OUT_MD_0
-Text Label 13425 2575 0    60   ~ 0
+Text Label 14225 2450 0    60   ~ 0
 OUT_MD_1
-Text Label 13425 2475 0    60   ~ 0
+Text Label 14225 2350 0    60   ~ 0
 OUT_MD_2
-Text Label 13425 2375 0    60   ~ 0
+Text Label 14225 2250 0    60   ~ 0
 OUT_MD_3
-Text Label 13425 2275 0    60   ~ 0
+Text Label 14225 2150 0    60   ~ 0
 OUT_MD_4
-Text Label 13425 2175 0    60   ~ 0
+Text Label 14225 2050 0    60   ~ 0
 OUT_MD_5
-Text Label 13425 2075 0    60   ~ 0
+Text Label 14225 1950 0    60   ~ 0
 OUT_MD_6
-Text Label 13425 1975 0    60   ~ 0
+Text Label 14225 1850 0    60   ~ 0
 OUT_MD_7
-Text Label 13425 1875 0    60   ~ 0
+Text Label 14225 1750 0    60   ~ 0
 OUT_MD_8
-Text Label 13425 1775 0    60   ~ 0
+Text Label 14225 1650 0    60   ~ 0
 OUT_MD_9
-Text Label 13425 1675 0    60   ~ 0
+Text Label 14225 1550 0    60   ~ 0
 OUT_MD_10
-Text Label 13425 1575 0    60   ~ 0
+Text Label 14225 1450 0    60   ~ 0
 OUT_MD_11
 Text Label 2275 2900 2    60   ~ 0
 VCC
@@ -827,65 +827,54 @@ Text Label 2275 3000 2    60   ~ 0
 GND
 Text Label 2275 3100 2    60   ~ 0
 CLK
-$Comp
-L DIL24 P5
-U 1 1 5AC9104A
-P 13075 5075
-F 0 "P5" H 13075 5175 50  0000 C CNN
-F 1 "DIL24" H 13075 4975 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 13075 5075 50  0001 C CNN
-F 3 "" H 13075 5075 50  0000 C CNN
-	1    13075 5075
-	1    0    0    -1  
-$EndComp
-Text Label 13425 5625 0    60   ~ 0
-OUT_BUF_B_0
-Text Label 13425 5525 0    60   ~ 0
-OUT_BUF_B_1
-Text Label 13425 5425 0    60   ~ 0
-OUT_BUF_B_2
-Text Label 13425 5325 0    60   ~ 0
-OUT_BUF_B_3
-Text Label 13425 5225 0    60   ~ 0
-OUT_BUF_B_4
-Text Label 13425 5125 0    60   ~ 0
-OUT_BUF_B_5
-Text Label 13425 5025 0    60   ~ 0
-OUT_BUF_B_6
-Text Label 13425 4925 0    60   ~ 0
-OUT_BUF_B_7
-Text Label 13425 4825 0    60   ~ 0
-OUT_BUF_B_8
-Text Label 13425 4725 0    60   ~ 0
-OUT_BUF_B_9
-Text Label 13425 4625 0    60   ~ 0
-OUT_BUF_B_10
-Text Label 13425 4525 0    60   ~ 0
-OUT_BUF_B_11
-Text Label 12725 4525 2    60   ~ 0
-OUT_BUF_A_0
-Text Label 12725 4625 2    60   ~ 0
-OUT_BUF_A_1
-Text Label 12725 4725 2    60   ~ 0
-OUT_BUF_A_2
-Text Label 12725 4825 2    60   ~ 0
-OUT_BUF_A_3
-Text Label 12725 4925 2    60   ~ 0
-OUT_BUF_A_4
-Text Label 12725 5025 2    60   ~ 0
-OUT_BUF_A_5
-Text Label 12725 5125 2    60   ~ 0
-OUT_BUF_A_6
-Text Label 12725 5225 2    60   ~ 0
-OUT_BUF_A_7
-Text Label 12725 5325 2    60   ~ 0
-OUT_BUF_A_8
-Text Label 12725 5425 2    60   ~ 0
-OUT_BUF_A_9
-Text Label 12725 5525 2    60   ~ 0
-OUT_BUF_A_10
-Text Label 12725 5625 2    60   ~ 0
-OUT_BUF_A_11
+Text Label 13500 5250 2    60   ~ 0
+OUT_BUF_MD_0
+Text Label 13500 5350 2    60   ~ 0
+OUT_BUF_MD_1
+Text Label 13500 5450 2    60   ~ 0
+OUT_BUF_MD_2
+Text Label 13500 5550 2    60   ~ 0
+OUT_BUF_MD_3
+Text Label 13500 5650 2    60   ~ 0
+OUT_BUF_MD_4
+Text Label 13500 5750 2    60   ~ 0
+OUT_BUF_MD_5
+Text Label 14200 5750 0    60   ~ 0
+OUT_BUF_MD_6
+Text Label 14200 5650 0    60   ~ 0
+OUT_BUF_MD_7
+Text Label 14200 5550 0    60   ~ 0
+OUT_BUF_MD_8
+Text Label 14200 5450 0    60   ~ 0
+OUT_BUF_MD_9
+Text Label 14200 5350 0    60   ~ 0
+OUT_BUF_MD_10
+Text Label 14200 5250 0    60   ~ 0
+OUT_BUF_MD_11
+Text Label 13500 4425 2    60   ~ 0
+OUT_BUF_MA_0
+Text Label 13500 4525 2    60   ~ 0
+OUT_BUF_MA_1
+Text Label 13500 4625 2    60   ~ 0
+OUT_BUF_MA_2
+Text Label 13500 4725 2    60   ~ 0
+OUT_BUF_MA_3
+Text Label 13500 4825 2    60   ~ 0
+OUT_BUF_MA_4
+Text Label 13500 4925 2    60   ~ 0
+OUT_BUF_MA_5
+Text Label 14200 4925 0    60   ~ 0
+OUT_BUF_MA_6
+Text Label 14200 4825 0    60   ~ 0
+OUT_BUF_MA_7
+Text Label 14200 4725 0    60   ~ 0
+OUT_BUF_MA_8
+Text Label 14200 4625 0    60   ~ 0
+OUT_BUF_MA_9
+Text Label 14200 4525 0    60   ~ 0
+OUT_BUF_MA_10
+Text Label 14200 4425 0    60   ~ 0
+OUT_BUF_MA_11
 Text Label 2275 3200 2    60   ~ 0
 LOAD_HI_MA
 Text Label 2275 3300 2    60   ~ 0
@@ -1029,62 +1018,62 @@ IN_SEL_11
 $Comp
 L DIL24 P2
 U 1 1 5ACB0C6D
-P 13075 3575
-F 0 "P2" H 13075 3675 50  0000 C CNN
-F 1 "DIL24" H 13075 3475 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 13075 3575 50  0001 C CNN
-F 3 "" H 13075 3575 50  0000 C CNN
-	1    13075 3575
+P 13875 3450
+F 0 "P2" H 13875 3550 50  0000 C CNN
+F 1 "DIL24" H 13875 3350 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x12" H 13875 3450 50  0001 C CNN
+F 3 "" H 13875 3450 50  0000 C CNN
+	1    13875 3450
 	1    0    0    -1  
 $EndComp
-Text Label 12725 3025 2    60   ~ 0
+Text Label 13525 2900 2    60   ~ 0
 OUT_PC_0
-Text Label 12725 3125 2    60   ~ 0
+Text Label 13525 3000 2    60   ~ 0
 OUT_PC_1
-Text Label 12725 3225 2    60   ~ 0
+Text Label 13525 3100 2    60   ~ 0
 OUT_PC_2
-Text Label 12725 3325 2    60   ~ 0
+Text Label 13525 3200 2    60   ~ 0
 OUT_PC_3
-Text Label 12725 3425 2    60   ~ 0
+Text Label 13525 3300 2    60   ~ 0
 OUT_PC_4
-Text Label 12725 3525 2    60   ~ 0
+Text Label 13525 3400 2    60   ~ 0
 OUT_PC_5
-Text Label 12725 3625 2    60   ~ 0
+Text Label 13525 3500 2    60   ~ 0
 OUT_PC_6
-Text Label 12725 3725 2    60   ~ 0
+Text Label 13525 3600 2    60   ~ 0
 OUT_PC_7
-Text Label 12725 3825 2    60   ~ 0
+Text Label 13525 3700 2    60   ~ 0
 OUT_PC_8
-Text Label 12725 3925 2    60   ~ 0
+Text Label 13525 3800 2    60   ~ 0
 OUT_PC_9
-Text Label 12725 4025 2    60   ~ 0
+Text Label 13525 3900 2    60   ~ 0
 OUT_PC_10
-Text Label 12725 4125 2    60   ~ 0
+Text Label 13525 4000 2    60   ~ 0
 OUT_PC_11
-Text Label 13425 4125 0    60   ~ 0
-OUT_SR_0
-Text Label 13425 4025 0    60   ~ 0
-OUT_SR_1
-Text Label 13425 3925 0    60   ~ 0
-OUT_SR_2
-Text Label 13425 3825 0    60   ~ 0
-OUT_SR_3
-Text Label 13425 3725 0    60   ~ 0
-OUT_SR_4
-Text Label 13425 3625 0    60   ~ 0
-OUT_SR_5
-Text Label 13425 3525 0    60   ~ 0
-OUT_SR_6
-Text Label 13425 3425 0    60   ~ 0
-OUT_SR_7
-Text Label 13425 3325 0    60   ~ 0
-OUT_SR_8
-Text Label 13425 3225 0    60   ~ 0
-OUT_SR_9
-Text Label 13425 3125 0    60   ~ 0
-OUT_SR_10
-Text Label 13425 3025 0    60   ~ 0
-OUT_SR_11
+Text Label 14225 4000 0    60   ~ 0
+OUT_AC_0
+Text Label 14225 3900 0    60   ~ 0
+OUT_AC_1
+Text Label 14225 3800 0    60   ~ 0
+OUT_AC_2
+Text Label 14225 3700 0    60   ~ 0
+OUT_AC_3
+Text Label 14225 3600 0    60   ~ 0
+OUT_AC_4
+Text Label 14225 3500 0    60   ~ 0
+OUT_AC_5
+Text Label 14225 3400 0    60   ~ 0
+OUT_AC_6
+Text Label 14225 3300 0    60   ~ 0
+OUT_AC_7
+Text Label 14225 3200 0    60   ~ 0
+OUT_AC_8
+Text Label 14225 3100 0    60   ~ 0
+OUT_AC_9
+Text Label 14225 3000 0    60   ~ 0
+OUT_AC_10
+Text Label 14225 2900 0    60   ~ 0
+OUT_AC_11
 Text Label 3000 8625 3    60   ~ 0
 OUT_MA_0
 Text Label 3100 8625 3    60   ~ 0
@@ -2045,4 +2034,48 @@ Wire Wire Line
 	11375 8375 11375 8100
 Wire Wire Line
 	11275 8475 11275 8100
+$Comp
+L DIL6 P6
+U 1 1 5ACB7AED
+P 13850 4525
+F 0 "P6" H 13850 4725 50  0000 C CNN
+F 1 "DIL6" V 13850 4525 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 13850 4525 50  0001 C CNN
+F 3 "" H 13850 4525 50  0000 C CNN
+	1    13850 4525
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL6 P7
+U 1 1 5ACB7BA0
+P 13850 4825
+F 0 "P7" H 13850 5025 50  0000 C CNN
+F 1 "DIL6" V 13850 4825 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 13850 4825 50  0001 C CNN
+F 3 "" H 13850 4825 50  0000 C CNN
+	1    13850 4825
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL6 P8
+U 1 1 5ACB7C7F
+P 13850 5350
+F 0 "P8" H 13850 5550 50  0000 C CNN
+F 1 "DIL6" V 13850 5350 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 13850 5350 50  0001 C CNN
+F 3 "" H 13850 5350 50  0000 C CNN
+	1    13850 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIL6 P9
+U 1 1 5ACB7D2E
+P 13850 5650
+F 0 "P9" H 13850 5850 50  0000 C CNN
+F 1 "DIL6" V 13850 5650 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x03" H 13850 5650 50  0001 C CNN
+F 3 "" H 13850 5650 50  0000 C CNN
+	1    13850 5650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
